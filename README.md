@@ -199,3 +199,25 @@ URL Project Report (Github): https://github.com/upc-pre-2025101asi0729-RepoRange
         - [5.2.1.6. Services Documentation Evidence for Sprint Review]()
         - [5.2.1.7. Software Deployment Evidence for Sprint Review]()
         - [5.2.1.8. Team Collaboration Insights during Sprint]()
+
+---
+# Capítulo I: Introducción
+## 1.1. Startup Profile
+
+Esta sección proporciona una visión integral de la startup, incluyendo una descripción detallada de su misión, visión, y el producto que ofrece. Además, se presentan los perfiles de los miembros clave del equipo, destacando sus habilidades, experiencia y contribuciones al desarrollo y éxito de la empresa. Aquí se busca brindar una comprensión completa de la identidad y el potencial del startup, así como de las personas que impulsan su crecimiento.
+
+### 1.1.1 Descripción de la Startup
+
+Bikeshare es una plataforma web colaborativa que permite a los usuarios alquilar o rentar bicicletas entre sí de manera segura, flexible y eficiente. La aplicación integra geolocalización en tiempo real, ofreciendo un mapa interactivo donde los usuarios pueden visualizar bicicletas disponibles y zonas seguras para la entrega y devolución. A través de un sistema de reservas con cobro automático y pagos en línea, se garantiza una experiencia fluida y confiable para ambas partes. Además, Bikeshare incorpora un sistema de reputación basado en calificaciones y comentarios, fomentando la confianza entre arrendadores y arrendatarios. Este enfoque combina tecnología y comunidad para promover una movilidad sostenible y compartida en entornos urbanos.
+
+**Misión:** Promover una movilidad urbana sostenible, accesible y colaborativa a través de una plataforma digital que conecta personas para el alquiler seguro y flexible de bicicletas, integrando tecnología de geolocalización, pagos en línea y un sistema de reputación que garantiza confianza y transparencia en cada viaje.
+
+**Visión:** Convertirnos en la solución líder de micromovilidad compartida en el Perú, transformando la forma en que las personas se desplazan en las ciudades mediante una red comunitaria de bicicletas conectadas, seguras y disponibles en tiempo real, fomentando una cultura de transporte responsable y ecológico.
+
+**Logo del Startup:**
+
+<p align="left"><img src="images/logo-servicio.png" alt="RepoRangers Logo" width="30%" height="40%"></p>
+
+**Logo del Producto:**
+
+<p align="left"><img src="images/logo-producto.png" alt="Bikeshare Logo" width="20%" height="40%"></p>
