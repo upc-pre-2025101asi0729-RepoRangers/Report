@@ -154,7 +154,55 @@ URL Project Report (Github): https://github.com/upc-pre-2025101asi0729-RepoRange
 | **Amenazas** | Competencia con apps ya establecidas, resistencia inicial de usuarios. | Limitado potencial de expansión sin inversión en estaciones. | Perder mercado ante plataformas tecnológicas. | Falta de escalabilidad y dependencia de comunicación directa. |
 
 --- 
-  - [2.1.2. Estrategias y tácticas frente a competidores]()
+   - [2.1.2. Estrategias y tácticas frente a competidores]()
+
+BikeShare, al operar en un mercado donde ya existen soluciones tradicionales y semi-digitales de alquiler de bicicletas, debe aplicar estrategias que le permitan posicionarse como una alternativa innovadora, segura y sostenible. A continuación, se detallan las estrategias y tácticas preliminares para afrontar las fortalezas y debilidades de los competidores, así como para aprovechar las oportunidades y mitigar las amenazas presentes en el entorno competitivo.
+
+---
+
+#### Frente a las fortalezas de los competidores
+
+| **Fortalezas de los competidores** | **Estrategias de BikeShare** |
+|-----------------------------------|-------------------------------|
+| CityBike Lima cuenta con infraestructura consolidada y estaciones automatizadas. | Diferenciación mediante un modelo sin estaciones fijas, que permita flexibilidad en el retiro y entrega de bicicletas. |
+| Bicilandia ofrece precios accesibles y presencia en zonas turísticas. | Implementar tarifas dinámicas y descuentos por uso frecuente, con un sistema de pago transparente. |
+| Barranco Bikes brinda atención personalizada y tours guiados. | Establecer alianzas con guías locales y operadores turísticos para integrar experiencias dentro de la plataforma. |
+
+---
+
+#### Frente a las debilidades de los competidores
+
+| **Debilidades de los competidores** | **Tácticas de BikeShare** |
+|-------------------------------------|----------------------------|
+| Cobertura geográfica limitada a ciertos distritos. | Escalabilidad sin necesidad de infraestructura física, ampliando cobertura rápidamente mediante usuarios. |
+| Ausencia de digitalización (Bicilandia). | Plataforma 100% digital con geolocalización, reservas, pagos y reputación. |
+| Alta dependencia del contacto directo para coordinar servicios (Barranco Bikes). | Automatización de procesos: reservas instantáneas, notificaciones inteligentes y sistema de calificaciones. |
+
+---
+
+#### Aprovechamiento de oportunidades del entorno
+
+| **Oportunidades del entorno** | **Estrategias para capitalizarlas** |
+|------------------------------|-------------------------------------|
+| Mayor conciencia ecológica y apoyo municipal a la bicicleta. | Campañas de sensibilización y alianzas con municipios y eventos de movilidad sostenible. |
+| Tendencia al uso de soluciones digitales y autoservicio. | Enfocar el desarrollo en una plataforma accesible, intuitiva y confiable desde cualquier dispositivo. |
+
+---
+
+#### Mitigación de amenazas del entorno
+
+| **Amenazas externas** | **Tácticas de mitigación** |
+|------------------------|----------------------------|
+| Competencia de plataformas consolidadas. | Posicionarse como alternativa colaborativa y más flexible para trayectos cortos o recreativos. |
+| Desconfianza en el alquiler entre pares. | Implementar validación de identidad, calificaciones y sistema de soporte a usuarios. |
+| Resistencia cultural al uso de bicicleta en algunos distritos. | Desarrollar campañas educativas en redes sociales y brindar incentivos para primeros usuarios. |
+
+---
+
+#### Estrategia general
+
+BikeShare se posicionará como una solución colaborativa, ecológica y digital, dirigida a ciudadanos que buscan alternativas de transporte accesibles, sostenibles y fáciles de usar. Gracias a su modelo descentralizado, la plataforma puede escalar rápidamente sin depender de infraestructura física, diferenciándose de la competencia tradicional. A través de su enfoque en experiencia de usuario, comunidad y sostenibilidad urbana, BikeShare aprovechará las oportunidades del mercado para consolidarse como un referente de movilidad compartida en Lima Metropolitana.
+
 - [2.2. Entrevistas]()
   - [2.2.1. Diseño de entrevistas]()
   - [2.2.2. Registro de entrevistas]()
