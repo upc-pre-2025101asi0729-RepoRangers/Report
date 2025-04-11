@@ -134,12 +134,12 @@ URL Project Report (Github): https://github.com/upc-pre-2025101asi0729-RepoRange
 
 ### [Capítulo II: Requirements Elicitation & Analysis]()
 - [2.1. Competidores]()
-    - [2.1.1. Análisis competitivo]()
-    - ## ¿Por qué llevar a cabo este análisis?
-Este análisis permite conocer mejor a los competidores actuales en el sector de alquiler de bicicletas en Lima Metropolitana, identificar sus fortalezas y debilidades, y establecer estrategias efectivas para que BikeShare se posicione con ventaja competitiva en el mercado local.
+  - [2.1.1. Análisis competitivo]()
 
+    **¿Por qué llevar a cabo este análisis?**
+    Este análisis permite conocer mejor a los competidores actuales en el sector de alquiler de bicicletas en Lima Metropolitana, identificar sus fortalezas y debilidades, y establecer estrategias efectivas para que BikeShare se posicione con ventaja competitiva en el mercado local.
 
-| **Categoría** | **BikeShare** | **CityBike Lima** | **Bicilandia** | **Barranco Bikes** |
+| **Categoría** | **BikeShare**<br>![BikeShare Logo](images/bikeshare-logo.png) | **CityBike Lima**<br>![CityBike Logo](images/citybike-logo.png) | **Bicilandia**<br>![Bicilandia Logo](images/bicilandia-logo.png) | **Barranco Bikes**<br>![Barranco Logo](images/barrancobike-logo.png) |
 |---------------|---------------|-------------------|----------------|---------------------|
 | **Overview** | Plataforma colaborativa digital para alquiler de bicicletas entre ciudadanos en Lima Metropolitana. | Sistema de bicicletas públicas con estaciones fijas en Miraflores. | Alquiler tradicional de bicicletas desde locales físicos en zonas turísticas. | Alquiler de bicicletas y tours guiados con servicio de entrega a domicilio. |
 | **Ventaja competitiva**<br>¿Qué valor ofrece a los clientes? | Fomenta la economía colaborativa, acceso flexible y sin estaciones físicas, geolocalización y pagos integrados. | Conveniencia, integración con infraestructura urbana, tecnología móvil. | Accesibilidad y bajo costo para turistas sin tecnología. | Enfoque turístico personalizado y servicio de entrega. |
@@ -153,11 +153,12 @@ Este análisis permite conocer mejor a los competidores actuales en el sector de
 | **Oportunidades** | Impulso municipal al ciclismo, tendencia ecológica urbana. | Iniciativas distritales en transporte ecológico. | Turismo activo en Miraflores y Jesús María. | Turismo recreativo y cultural en Barranco. |
 | **Amenazas** | Competencia con apps ya establecidas, resistencia inicial de usuarios. | Limitado potencial de expansión sin inversión en estaciones. | Perder mercado ante plataformas tecnológicas. | Falta de escalabilidad y dependencia de comunicación directa. |
 
-    - [2.1.2. Estrategias y tácticas frente a competidores]()
+--- 
+  - [2.1.2. Estrategias y tácticas frente a competidores]()
 - [2.2. Entrevistas]()
-    - [2.2.1. Diseño de entrevistas]()
-    - [2.2.2. Registro de entrevistas]()
-    - [2.2.3. Análisis de entrevistas]()
+  - [2.2.1. Diseño de entrevistas]()
+  - [2.2.2. Registro de entrevistas]()
+  - [2.2.3. Análisis de entrevistas]()
 - [2.3. Needfinding]()
     - [2.3.1. User Personas]()
     - [2.3.2. User Task Matrix]()
