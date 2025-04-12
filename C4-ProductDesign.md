@@ -36,4 +36,37 @@
 >
 > <img src="images/Spacing.png" alt="Spacing">
 >
+### 4.1.2.Web Style Guidelines
+> Para el desarrollo de la plataforma web se ha decidido implementar Web Responsive Design, esto permitira que la plataforma se pueda adaptar al dispositivo en el cual se ingrese.
+> Gracias a esto el contenido se mantendra intacto, mejorando la presentacion y la experiencia del usuario.
+> Se ha optado usar Material Design para la experiencia de usuario ya que este se enfoca en los elementos clave y enfoca la atencion del usuario asia la pagina.
+>
+> **Icons** <br>
+> Nos aseguraremos de la consistencia y capacidad de lectura de los iconos a las ves que se expresaran las caracteristicas esenciales de esta.
+>
+> <img src="images/Icons.png" alt="Icons">
+>
+> **Scale** <br>
+> Se usara un rango de 7 tipo de esquinas en las figuras:
+>- None
+>- Extra Small
+>- Small
+>- Medium
+>- Large
+>- Extra
+>- Large
+>- Full
+>
+> <img src="images/Shape.png" alt="Shape">
+>
+### 4.1.3.Mobile Style Guidelines
+> Para el desarrollo de la version mobil se continuara con el uso de Material Design para mantener la uniformidad de platafoma web en diferentes dispositivos.
+>
+> **Transitions** <br>
+> Se aplicaran transiciones la cuales permitan que la plataforma tenga una sensancion cohesiva y predecible al momento de usarla 
+> <img src="images/Transition.png" alt="Transition">
+>
+## 4.2.Information Architecture
+>En este apartado de detallaran el contenido visual y los tagas que se usaran en la elaboracion del Landing Page y la Pagina Web. Se revisaran topicos tales como
+>los Labelling Systems, Organization Systems, SEO, Meta Tags y Searaching y Navigation Sytems.
 >
