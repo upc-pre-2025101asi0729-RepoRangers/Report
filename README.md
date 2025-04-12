@@ -262,3 +262,41 @@ BikeShare se posicionará como una solución colaborativa, ecológica y digital,
 física, diferenciándose de la competencia tradicional. A través de su enfoque en experiencia de usuario, comunidad y sostenibilidad urbana, BikeShare aprovechará las oportunidades del mercado para consolidarse como un referente de movilidad compartida en Lima Metropolitana.
 
 - [2.2. Entrevistas]()
+  
+  Las entrevistas son una herramienta clave para obtener información cualitativa sobre los usuarios potenciales de la plataforma. A través de ellas, se busca conocer sus opiniones, hábitos, necesidades y expectativas en relación al alquiler o renta de bicicletas en Lima Metropolitana. Esta 
+  información es esencial para definir arquetipos y mejorar el enfoque del diseño centrado en el usuario.
+  
+  - [2.2.1. Diseño de entrevistas]()
+    
+    Para cada uno de los segmentos identificados, se han formulado las siguientes preguntas:
+
+    #### Segmento #1: Personas interesadas en alquilar bicicletas (Arrendatarios)
+
+     - ¿Cuál es su nombre, edad y en qué distrito vive?
+     - ¿Con qué frecuencia se moviliza por la ciudad y qué medios de transporte utiliza normalmente?
+     - ¿Ha alquilado bicicletas anteriormente? ¿Dónde y cómo fue su experiencia?
+     - ¿En qué situaciones estaría dispuesto/a a alquilar una bicicleta?
+     - ¿Qué características considera necesarias en una app para sentirse seguro/a alquilando bicicletas?
+     - ¿Qué métodos de pago utiliza con mayor frecuencia? ¿Le resultaría cómodo pagar mediante una app?
+     - ¿Qué tan importante es para usted conocer la reputación del arrendador antes de hacer el alquiler?
+     - ¿Prefiere alquilar por tiempo, por trayecto o por distancia? ¿Por qué?
+     - ¿Ha tenido experiencias negativas al usar servicios de transporte urbano? ¿Cuáles?
+     - ¿Qué dispositivo usa con más frecuencia (smartphone, laptop, tablet)?
+     - ¿Cuáles son sus principales frustraciones al movilizarse por la ciudad?
+     - ¿Qué expectativas tendría sobre una app de alquiler de bicicletas entre personas?
+
+    #### Segmento #2: Personas dispuestas a rentar sus bicicletas (Arrendadores)
+
+     - ¿Cuál es su nombre, edad y en qué distrito vive?
+     - ¿Tiene bicicleta propia? ¿Con qué frecuencia la usa?
+     - ¿Alguna vez ha pensado en rentar su bicicleta? ¿Qué le motivaría a hacerlo?
+     - ¿Qué aspectos le generarían desconfianza al compartir su bicicleta con desconocidos?
+     - ¿Qué tan importante es para usted controlar el precio, horario y condiciones del alquiler?
+     - ¿Qué medidas de seguridad consideraría necesarias para sentirse tranquilo al prestar su bicicleta?
+     - ¿Qué tipo de alertas o notificaciones le gustaría recibir cuando alguien solicite su bicicleta?
+     - ¿Está familiarizado con aplicaciones colaborativas (como Airbnb, Rappi, etc.)? ¿Las ha usado antes?
+     - ¿Qué métodos de pago prefiere para recibir ingresos por el alquiler?
+     - ¿Qué tipo de soporte o ayuda esperaría de parte de la plataforma en caso de incidentes?
+     - ¿Qué beneficios esperaría obtener por formar parte de una comunidad colaborativa de movilidad?
+     - ¿Qué le haría recomendar esta app a otros dueños de bicicleta?
+  - [2.2.2. Registro de entrevistas]()
