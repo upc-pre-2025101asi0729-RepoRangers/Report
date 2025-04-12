@@ -300,3 +300,31 @@ física, diferenciándose de la competencia tradicional. A través de su enfoque
      - ¿Qué beneficios esperaría obtener por formar parte de una comunidad colaborativa de movilidad?
      - ¿Qué le haría recomendar esta app a otros dueños de bicicleta?
   - [2.2.2. Registro de entrevistas]()
+
+    Para cada segmento se registraron 3 entrevistas. A continuación se muestra la recolección de datos que conseguimos tras realizar cada entrevista.
+
+    **Segmento #1: Personas interesadas en alquilar bicicletas (Arrendatarios)**
+
+       | Número de entrevista | Datos del entrevistado | Evidencia de entrevista |
+       |----------------------|------------------------|--------------------------|
+       | 1 | - **Nombre:** <br> - **Edad:** <br> - **Distrito:** <br> - **Link del video:** [Enlace aquí](https://...)<br> - **Momento que inicia:** <br> - **Momento que termina:** <br> - **Duración:** | ![captura](images/entrevista1.png) |
+       | 2 | - **Nombre:** <br> - **Edad:** <br> - **Distrito:** <br> - **Link del video:** [Enlace aquí](https://...)<br> - **Momento que inicia:** <br> - **Momento que termina:** <br> - **Duración:** | ![captura](images/entrevista2.png) |
+       | 3 | - **Nombre:** <br> - **Edad:** <br> - **Distrito:** <br> - **Link del video:** [Enlace aquí](https://...)<br> - **Momento que inicia:** <br> - **Momento que termina:** <br> - **Duración:** | ![captura](images/entrevista3.png) |
+
+
+    #### Resumen de entrevistas  segmento #1
+    segun lo que dice el documento debemo s escribir más que todo el comportamiento digital, hábitos, personalidad, tecnología usada, frustraciones, expectativas, dispositivos, canales de comunicación, etc.
+
+
+
+    **Segmento #2: Personas dispuestas a rentar sus bicicletas (Arrendadores)**
+
+       | Número de entrevista | Datos del entrevistado | Evidencia de entrevista |
+       |----------------------|------------------------|--------------------------|
+       | 1 | - **Nombre:** <br> - **Edad:** <br> - **Distrito:** <br> - **Link del video:** [Enlace aquí](https://...)<br> - **Momento que inicia:** <br> - **Momento que termina:** <br> - **Duración:** | ![captura](images/entrevista4.png) |
+       | 2 | - **Nombre:** <br> - **Edad:** <br> - **Distrito:** <br> - **Link del video:** [Enlace aquí](https://...)<br> - **Momento que inicia:** <br> - **Momento que termina:** <br> - **Duración:** | ![captura](images/entrevista5.png) |
+       | 3 | - **Nombre:** <br> - **Edad:** <br> - **Distrito:** <br> - **Link del video:** [Enlace aquí](https://...)<br> - **Momento que inicia:** <br> - **Momento que termina:** <br> - **Duración:** | ![captura](images/entrevista6.png) |
+
+
+    #### Resumen de entrevistas segemento #2
+    segun lo que dice el documento debemo s escribir más que todo el comportamiento digital, hábitos, personalidad, tecnología usada, frustraciones, expectativas, dispositivos, canales de comunicación, etc.
