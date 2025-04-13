@@ -328,3 +328,20 @@ física, diferenciándose de la competencia tradicional. A través de su enfoque
 
     #### Resumen de entrevistas segemento #2
     segun lo que dice el documento debemo s escribir más que todo el comportamiento digital, hábitos, personalidad, tecnología usada, frustraciones, expectativas, dispositivos, canales de comunicación, etc.
+- [2.3. Needfinding]()
+   - [2.3.1. User Personas]()
+    Con el propósito de obtener una comprensión más profunda de nuestro público objetivo, hemos analizado la información proveniente de las entrevistas previas. Hemos creado un *User Persona*, que es una representación ficticia de un usuario dentro de nuestro 
+    segmento. Este artefacto nos permite identificar patrones de comportamiento, necesidades, motivaciones y frustraciones que guiarán el diseño centrado en el usuario para nuestra plataforma.
+
+    **Segmento #1 – Arrendatarios (usuarios que alquilan bicicletas)**
+
+    ![User Persona - Valeria Huamán](img/userpersona1.png)
+
+   **Segmento #2 – Arrendadores (usuarios que alquilan sus bicicletas)**
+
+   ![User Persona - Luis Antonio Rojas](img/userpersona2.png)
+
+
+
+
+
