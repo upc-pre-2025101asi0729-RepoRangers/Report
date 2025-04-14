@@ -235,7 +235,7 @@ Bikeshare es una plataforma web colaborativa que permite a los usuarios alquilar
     <p align="center">
       Rodrigo Alaya - U202219481  
       <br>
-      <img src="images/fotoAlaya.jpg" alt="Foto Rodrigo" width="50%">
+      <img src="images/fotoAlaya.JPG" alt="Foto Rodrigo" width="50%">
     </p>
   </td>
   <td style="text-align: center" align="center">
