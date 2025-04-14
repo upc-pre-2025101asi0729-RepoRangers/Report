@@ -396,14 +396,14 @@ física, diferenciándose de la competencia tradicional. A través de su enfoque
    **Escenario:** Valeria necesita movilizarse desde Jesús María hacia su universidad en Surquillo sin usar transporte público. Actualmente no cuenta con una solución digital como BikeShare.
 
 <p align="center">
-  <img src="images/userjourney-valeria.png" alt="User Journey Map - Valeria Huamán" width="90%">
+  <img src="images/userjourney-valeria.png" alt="User Journey Map - Valeria Huamán" width="95%">
 </p>
 
    #### Segmento #2 – Arrendadores (usuarios que ofrecen sus bicicletas)
    **User Persona relacionado:** Luis Antonio Rojas – Técnico en telecomunicaciones  
    **Escenario:** Luis desea rentar su bicicleta que solo utiliza los fines de semana, pero no cuenta con una plataforma segura ni fácil para hacerlo.
 <p align="center">
-  <img src="images/userjourney-luis.png" alt="User Journey Map - Luis Antonio Rojas" width="90%">
+  <img src="images/userjourney-luis.png" alt="User Journey Map - Luis Antonio Rojas" width="95%">
 </p>
 
 - [2.3.4. Empathy Mapping]()
@@ -435,6 +435,36 @@ Valeria representa a los usuarios que necesitan alquilar bicicletas como alterna
 **Descripción del mapa:**  
 Luis representa a los usuarios que desean rentabilizar sus bicicletas no utilizadas. En su mapa de empatía se resaltan inquietudes en torno a la seguridad, la coordinación con terceros y la desconfianza hacia procesos informales. Por otro lado, identifica oportunidades de valor en soluciones que ofrezcan automatización, trazabilidad y protección del bien compartido.
 
+   - [2.3.1. As-is Scenario Mapping]()
+
+     El As-Is Scenario Mapping permite visualizar el recorrido actual que siguen los usuarios para lograr sus objetivos, en ausencia de la solución propuesta (BikeShare). A través de este mapeo, se identifican tareas, pensamientos y emociones que experimentan en 
+     cada fase de su experiencia. Esto proporciona insumos clave para diseñar soluciones centradas en el usuario.
+
+   ### Segmento #1 – Arrendatarios (Valeria Huamán)
+
+   **User Persona relacionado:** Valeria Huamán, estudiante universitaria.  
+
+<p align="center">
+  <img src="images/as-is-valeria.png" alt="As-Is Scenario Mapping - Valeria Huamán" width="95%">
+</p>
+
+   **Descripción del mapeo:**  
+   El mapa muestra las seis fases principales que Valeria atraviesa cuando intenta alquilar una bicicleta de manera informal. Se reflejan sus acciones (“Doing”), pensamientos (“Thinking”) y emociones (“Feeling”) a lo largo del proceso. Se identifican puntos de 
+   fricción como la falta de disponibilidad, la desconfianza, la inseguridad vial y la ausencia de un sistema estructurado que facilite el alquiler seguro y eficiente.
+
+
+
+   ### Segmento #2 – Arrendadores (Luis Antonio Rojas)
+
+   **User Persona relacionado:** Luis Antonio Rojas, técnico en telecomunicaciones.  
+
+<p align="center">
+  <img src="images/as-is-luis.png" alt="As-Is Scenario Mapping - Luis Antonio Rojas" width="95%">
+</p>
+
+   **Descripción del mapeo:**  
+   Este escenario detalla cómo Luis intenta alquilar su bicicleta utilizando canales informales como grupos de WhatsApp o Facebook. En cada fase del proceso, desde la identificación de la oportunidad hasta la devolución y pago, se visualizan emociones como 
+   inseguridad, ansiedad y frustración, así como barreras como la falta de automatización, baja confianza en los usuarios y ausencia de mecanismos formales para la validación, reserva y pagos seguros.
 
 
 
