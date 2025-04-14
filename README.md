@@ -349,38 +349,67 @@ física, diferenciándose de la competencia tradicional. A través de su enfoque
 
    - [2.3.2. User Task Matrix]()
 
-     A continuación se presenta la matriz de tareas identificadas para cada segmento objetivo. Estas tareas se han organizado en función de su frecuencia e importancia, con base en el análisis de entrevistas y observaciones contextuales.
-
-#### Segmento #1 – Arrendatarios (usuarios que alquilan bicicletas)
-
-<div align="center">
-
-| Tarea                                   | Frecuencia | Importancia | Observación adicional |
-|----------------------------------------|------------|-------------|------------------------|
-| Buscar una bicicleta cercana           | Alta       | Alta        | Usan mapa digital o referencias. |
-| Reservar bicicleta con anticipación    | Media      | Alta        | Necesitan saber disponibilidad. |
-| Consultar precios y condiciones        | Alta       | Alta        | Requieren transparencia. |
-| Calificar al arrendador                | Baja       | Media       | Lo hacen solo si algo fue muy bueno o muy malo. |
-| Usar rutas seguras o ciclovías         | Media      | Alta        | Quieren seguridad vial. |
-| Contactar al arrendador                | Baja       | Media       | Solo si hay problemas. |
-
-</div>
-
-
-#### Segmento #2 – Arrendadores (quienes ofrecen bicicletas)
+     En esta sección se presenta el User Task Matrix, que concentra las tareas que los User Persona (Valeria Huamán y Luis Antonio Rojas) realizan para cumplir sus objetivos. 
+     A continuación, se muestra la matriz consolidada con las tareas, su frecuencia e importancia según cada perfil de usuario.
 
 <div align="center">
 
-| Tarea                                   | Frecuencia | Importancia | Observación adicional |
-|----------------------------------------|------------|-------------|------------------------|
-| Publicar su bicicleta en la plataforma | Media      | Alta        | Quieren control sobre disponibilidad. |
-| Establecer precio y condiciones        | Media      | Alta        | Desean flexibilidad. |
-| Verificar reputación del arrendatario  | Media      | Alta        | Temen por la seguridad de su bici. |
-| Recibir pagos automáticamente          | Alta       | Alta        | Buscan simplicidad y confianza. |
-| Recibir alertas/notificaciones         | Alta       | Media       | Útil para coordinación. |
-| Calificar al arrendatario              | Baja       | Media       | Solo si hubo una mala experiencia. |
+| **Tarea**                               | **Valeria** <br> Frecuencia | **Valeria** <br> Importancia | **Luis** <br> Frecuencia | **Luis** <br> Importancia |
+|----------------------------------------|---------------------------------------------|-------------------------------|----------------------------------------|-----------------------------|
+| Buscar bicicleta cercana                | Alta                                        | Alta                          | –                                      | –                           |
+| Reservar bicicleta                      | Media                                       | Alta                          | –                                      | –                           |
+| Consultar precios y condiciones         | Alta                                        | Alta                          | Media                                   | Alta                        |
+| Calificar al otro usuario               | Baja                                        | Media                         | Baja                                    | Media                       |
+| Usar ciclovías o rutas seguras          | Media                                       | Alta                          | –                                      | –                           |
+| Contactar al otro usuario               | Baja                                        | Media                         | Baja                                    | Media                       |
+| Publicar bicicleta                      | –                                           | –                             | Media                                   | Alta                        |
+| Establecer precio y condiciones         | –                                           | –                             | Media                                   | Alta                        |
+| Verificar reputación del arrendatario   | –                                           | –                             | Media                                   | Alta                        |
+| Recibir pagos automáticamente           | –                                           | –                             | Alta                                    | Alta                        |
+| Recibir alertas o notificaciones        | –                                           | –                             | Alta                                    | Media                       |
 
 </div>
+   La matriz evidencia claramente las prioridades diferenciadas entre ambos segmentos:
+
+   - **Valeria Huamán (Arrendataria):** prioriza tareas relacionadas con la movilidad urbana eficiente, como la búsqueda de bicicletas, la reserva anticipada y el uso de rutas seguras. Para ella, la transparencia en precios y condiciones es esencial, así como una 
+   interfaz ágil para tomar decisiones rápidas.
+
+  - **Luis Antonio Rojas (Arrendador):** se enfoca en tareas que le brinden seguridad y control sobre su bicicleta, como establecer condiciones, verificar la reputación del arrendatario y recibir pagos de forma automatizada. Su experiencia depende en gran medida 
+   de la confianza y facilidad del sistema.
+   #### Coincidencias
+   Ambos perfiles consideran **la reputación mutua como un factor de importancia media**, lo que sugiere que el sistema de calificaciones debe existir, pero no representar un punto crítico de fricción.
+
+   #### Diferencias
+   - Valeria está motivada por la eficiencia, la autonomía y el ahorro de tiempo.
+   - Luis se preocupa por la seguridad, la simplicidad del proceso y la protección de su bien material.
+
+     - [2.3.3. User Journey Mapping]()
+       
+       El User Journey Mapping permite visualizar la experiencia del usuario a lo largo de las distintas etapas que atraviesa para cumplir un objetivo específico. En esta sección se presenta la versión As-Is de los User Journey Maps, es decir, el recorrido 
+       actual de los usuarios sin la existencia de la solución BikeShare. 
+       A continuación, se presenta un *User Journey Map* para cada segmento identificado.
+
+   #### Segmento #1 – Arrendatarios (usuarios que alquilan bicicletas)
+
+   **User Persona relacionado:** Valeria Huamán – Estudiante universitaria  
+   **Escenario:** Valeria necesita movilizarse desde Jesús María hacia su universidad en Surquillo sin usar transporte público. Actualmente no cuenta con una solución digital como BikeShare.
+
+<p align="center">
+  <img src="images/userjourney-valeria.png" alt="User Journey Map - Valeria Huamán" width="90%">
+</p>
 
 
+
+   #### Segmento #2 – Arrendadores (usuarios que ofrecen sus bicicletas)
+
+   **User Persona relacionado:** Luis Antonio Rojas – Técnico en telecomunicaciones  
+   **Escenario:** Luis desea rentar su bicicleta que solo utiliza los fines de semana, pero no cuenta con una plataforma segura ni fácil para hacerlo.
+
+<p align="center">
+  <img src="images/userjourney-luis.png" alt="User Journey Map - Luis Antonio Rojas" width="90%">
+</p>
+
+
+
+   
 
