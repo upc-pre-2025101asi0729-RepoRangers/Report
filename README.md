@@ -381,10 +381,11 @@ física, diferenciándose de la competencia tradicional. A través de su enfoque
 
    #### Diferencias
    - Valeria está motivada por la eficiencia, la autonomía y el ahorro de tiempo.
-   - Luis se preocupa por la seguridad, la simplicidad del proceso y la protección de su bien material.
+   - Luis se preocupa por la seguridad, la simplicidad del proceso y la protección de su bien
 
+     
      - [2.3.3. User Journey Mapping]()
-       
+
        El User Journey Mapping permite visualizar la experiencia del usuario a lo largo de las distintas etapas que atraviesa para cumplir un objetivo específico. En esta sección se presenta la versión As-Is de los User Journey Maps, es decir, el recorrido 
        actual de los usuarios sin la existencia de la solución BikeShare. 
        A continuación, se presenta un *User Journey Map* para cada segmento identificado.
@@ -398,16 +399,43 @@ física, diferenciándose de la competencia tradicional. A través de su enfoque
   <img src="images/userjourney-valeria.png" alt="User Journey Map - Valeria Huamán" width="90%">
 </p>
 
-
-
    #### Segmento #2 – Arrendadores (usuarios que ofrecen sus bicicletas)
-
    **User Persona relacionado:** Luis Antonio Rojas – Técnico en telecomunicaciones  
    **Escenario:** Luis desea rentar su bicicleta que solo utiliza los fines de semana, pero no cuenta con una plataforma segura ni fácil para hacerlo.
-
 <p align="center">
   <img src="images/userjourney-luis.png" alt="User Journey Map - Luis Antonio Rojas" width="90%">
 </p>
+
+- [2.3.4. Empathy Mapping]()
+
+Con el objetivo de comprender a profundidad las emociones, necesidades, frustraciones y percepciones de nuestros segmentos objetivos, se elaboraron los mapas de empatía (*Empathy Maps*) para cada uno de los perfiles desarrollados en la sección de User Personas. Esta herramienta nos permite visualizar desde distintos ángulos cómo piensa, siente, dice y actúa cada tipo de usuario frente a la problemática identificada.
+
+A continuación, se presentan los mapas de empatía para los dos segmentos principales de BikeShare.
+
+### Segmento #1 – Arrendatarios (Valeria Huamán)
+
+**Perfil relacionado:** Valeria Huamán, estudiante universitaria de 24 años, que busca una forma flexible y segura de movilizarse por la ciudad.
+
+<p align="center">
+  <img src="images/empathy-valeria.png" alt="Empathy Map - Valeria Huamán" width="85%">
+</p>
+
+**Descripción del mapa:**  
+Valeria representa a los usuarios que necesitan alquilar bicicletas como alternativa al transporte público. En el mapa de empatía se destacan sus principales frustraciones relacionadas a la inseguridad, la falta de disponibilidad en tiempo real, y el estrés por depender de sistemas de movilidad ineficientes. Al mismo tiempo, muestra motivaciones vinculadas con la autonomía, el ahorro de tiempo y el deseo de una experiencia tecnológica fluida y segura.
+
+
+### Segmento #2 – Arrendadores (Luis Antonio Rojas)
+
+**Perfil relacionado:** Luis Antonio Rojas, técnico de 31 años que desea alquilar su bicicleta durante el tiempo que no la utiliza.
+
+<p align="center">
+  <img src="images/empathy-luis.png" alt="Empathy Map - Luis Antonio Rojas" width="85%">
+</p>
+
+**Descripción del mapa:**  
+Luis representa a los usuarios que desean rentabilizar sus bicicletas no utilizadas. En su mapa de empatía se resaltan inquietudes en torno a la seguridad, la coordinación con terceros y la desconfianza hacia procesos informales. Por otro lado, identifica oportunidades de valor en soluciones que ofrezcan automatización, trazabilidad y protección del bien compartido.
+
+
 
 
 
