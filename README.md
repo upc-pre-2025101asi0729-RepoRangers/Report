@@ -347,8 +347,40 @@ física, diferenciándose de la competencia tradicional. A través de su enfoque
     </p>
 
 
-   - [2.3.1. User Personas]()
+   - [2.3.2. User Task Matrix]()
 
+     A continuación se presenta la matriz de tareas identificadas para cada segmento objetivo. Estas tareas se han organizado en función de su frecuencia e importancia, con base en el análisis de entrevistas y observaciones contextuales.
+
+#### Segmento #1 – Arrendatarios (usuarios que alquilan bicicletas)
+
+<div align="center">
+
+| Tarea                                   | Frecuencia | Importancia | Observación adicional |
+|----------------------------------------|------------|-------------|------------------------|
+| Buscar una bicicleta cercana           | Alta       | Alta        | Usan mapa digital o referencias. |
+| Reservar bicicleta con anticipación    | Media      | Alta        | Necesitan saber disponibilidad. |
+| Consultar precios y condiciones        | Alta       | Alta        | Requieren transparencia. |
+| Calificar al arrendador                | Baja       | Media       | Lo hacen solo si algo fue muy bueno o muy malo. |
+| Usar rutas seguras o ciclovías         | Media      | Alta        | Quieren seguridad vial. |
+| Contactar al arrendador                | Baja       | Media       | Solo si hay problemas. |
+
+</div>
+
+
+#### Segmento #2 – Arrendadores (quienes ofrecen bicicletas)
+
+<div align="center">
+
+| Tarea                                   | Frecuencia | Importancia | Observación adicional |
+|----------------------------------------|------------|-------------|------------------------|
+| Publicar su bicicleta en la plataforma | Media      | Alta        | Quieren control sobre disponibilidad. |
+| Establecer precio y condiciones        | Media      | Alta        | Desean flexibilidad. |
+| Verificar reputación del arrendatario  | Media      | Alta        | Temen por la seguridad de su bici. |
+| Recibir pagos automáticamente          | Alta       | Alta        | Buscan simplicidad y confianza. |
+| Recibir alertas/notificaciones         | Alta       | Media       | Útil para coordinación. |
+| Calificar al arrendatario              | Baja       | Media       | Solo si hubo una mala experiencia. |
+
+</div>
 
 
 
