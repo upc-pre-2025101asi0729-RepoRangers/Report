@@ -28,7 +28,7 @@ Producto: BikeShare
 
 |          Integrantes           |   Código   |
 | :----------------------------: | :--------: |
-|      Rodrigo Alaya Cabrera      | U20..... |
+|      Rodrigo Alaya Cabrera      | U202219481 |
 |      Niurka Lucero Huarcaya Quispe       | U20...... |
 |      José Luis Martinez Valdivia         | U20..... |
 |      Maria Fernanda Mostajo Orosco       | U20...... |
@@ -230,11 +230,21 @@ Bikeshare es una plataforma web colaborativa que permite a los usuarios alquilar
 		<TH><h2>Descripción</h2></TH>
 		<TH><h2>Conocimientos</h2></TH>
 	</TR>
-  	<TR>
-		<td style="text-align: center" align="center"><p align="center"> Rodrigo Alaya Cabrera - U20  <img src="images/fotoCristian.jpeg" alt="Foto Sebastian" width="40%"> </p></td> 
-		<td style="text-align: center" align="center"></td>
-		<td style="text-align: center" align="center"> </td>
-	</TR>
+<tr>
+  <td style="text-align: center" align="center">
+    <p align="center">
+      Rodrigo Alaya - U202219481  
+      <br>
+      <img src="images/fotoAlaya.jpg" alt="Foto Rodrigo" width="50%">
+    </p>
+  </td>
+  <td style="text-align: center" align="center">
+    Soy una persona responsable, comprometida con mis objetivos y con gran disposición para aprender continuamente. Me adapto con facilidad al trabajo en equipo, aportando ideas y soluciones. Valoro mucho la eficiencia, la ética profesional y la mejora constante. Me esfuerzo por entregar siempre resultados de calidad, gestionando mis tareas con orden y enfoque.
+  </td>
+  <td style="text-align: center" align="center">
+    Apasionado por el desarrollo de software y la resolución de problemas. Tengo conocimientos en C++, Python, HTML, CSS y otros lenguajes de programación. Me considero autodidacta, siempre en busca de nuevos retos para fortalecer mis habilidades técnicas. También me interesa la experiencia del usuario y el diseño centrado en las personas como parte esencial en la creación de soluciones tecnológicas.
+  </td>
+</tr>
   	<TR>
 		<td style="text-align: center" align="center"><p align="center"> Niurka Lucero Huarcaya Quispe - U20  <img src="images/fotoMelina.jpg" alt="Foto Stanley" width="45%"> </p></td> 
 		<td style="text-align: center" align="center"></td>
