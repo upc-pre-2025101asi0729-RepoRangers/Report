@@ -466,6 +466,30 @@ Luis representa a los usuarios que desean rentabilizar sus bicicletas no utiliza
    Este escenario detalla cómo Luis intenta alquilar su bicicleta utilizando canales informales como grupos de WhatsApp o Facebook. En cada fase del proceso, desde la identificación de la oportunidad hasta la devolución y pago, se visualizan emociones como 
    inseguridad, ansiedad y frustración, así como barreras como la falta de automatización, baja confianza en los usuarios y ausencia de mecanismos formales para la validación, reserva y pagos seguros.
 
+- [2.4. Ubiquitous Language]()
+
+En esta sección se presenta un glosario de términos del dominio de negocio relacionado al servicio de alquiler colaborativo de bicicletas en Lima Metropolitana. Este lenguaje compartido (*Ubiquitous Language*) está basado en la problemática, las entrevistas realizadas y el modelo de solución propuesto (BikeShare). Su objetivo es alinear la comunicación entre los miembros del equipo y los stakeholders para asegurar consistencia y claridad en el desarrollo del producto.
+
+<div align="center">
+
+| **Término (Inglés)**    | **Término (Español)**    | **Definición**                                                                 |
+|-------------------------|--------------------------|---------------------------------------------------------------------------------|
+| **Renter**              | Arrendatario             | Usuario que desea alquilar una bicicleta por un periodo determinado.           |
+| **Bike Owner**          | Arrendador               | Persona que ofrece su bicicleta para alquilar a través de la plataforma.       |
+| **Booking**             | Reserva                  | Proceso mediante el cual un arrendatario aparta una bicicleta para uso posterior. |
+| **Reputation System**   | Sistema de reputación     | Mecanismo de valoración entre usuarios basado en experiencias previas.         |
+| **Availability**        | Disponibilidad           | Horarios y condiciones bajo los cuales una bicicleta puede ser alquilada.      |
+| **Rental Fee**          | Tarifa de alquiler        | Monto que debe pagar el arrendatario por el uso de la bicicleta.               |
+| **Secure Zone**         | Zona segura              | Espacio designado para recoger o dejar bicicletas sin riesgos.                 |
+| **Restriction Zone**    | Zona restringida         | Lugar donde está prohibido dejar bicicletas según las políticas del sistema.   |
+| **Microtransaction**    | Microtransacción         | Pequeño pago automático que realiza el usuario al concretar un alquiler.       |
+| **Trust Level**         | Nivel de confianza        | Indicador basado en validaciones de identidad y puntuaciones acumuladas.       |
+| **Incident Report**     | Reporte de incidente      | Comunicación formal ante cualquier problema ocurrido durante el alquiler.      |
+| **BikeShare Hub**       | Centro BikeShare         | Término genérico que se refiere a la plataforma como espacio de interacción digital. |
+
+</div>
+
+
 
 
 
