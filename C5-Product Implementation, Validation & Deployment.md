@@ -47,3 +47,41 @@ Estrucutra de las ramas:
 - **Feature Branch:** Esta rama es donde se implementarán nuevas características de la aplicación, para luego ser enviada a la rama de desarrollo.
 - **Release Branch:** Esta rama es una instancia de la rama Develop, para posteriormente ser enviada a la rama Main.
 - **Hotfix Branch:** Estas ramas son creadas con la finalidad de corregir errores puntuales que puedan estar perjudicando al usuario en su experiencia de uso de la aplicación.
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+**HTML**: Unas de las prácticas que hemos seguido para alcanzar un código limpio, conciso, coherente, legible y escalable son las siguientes:
+
+- Se usan elementos HTML que tengan un significado claro y preciso para el contenido que se está marcando. Por ejemplo, utiliza header, nav, main, article, section, aside, footer, entre otros, para estructurar la landing page de forma semántica.
+- Aunque HTML5 permite algunas etiquetas sin cierre (como "img" y "input"), utilizamos la buena práctica de cerrar todas las etiquetas correctamente para evitar problemas de renderizado. Por ejemplo: `<p> Código claro y legible.</p>`
+- Para mejorar la accesibilidad, siempre incluye el atributo alt en las etiquetas "img" para describir brevemente el contenido de la imagen. Por ejemplo: `<img src="image.img" alt="brief image name">`
+- HTML permite combinar mayúsculas y minúsculas en los nombres de los elementos y atributos, pero limitamos dar
+  al uso de solo minúsculas para preservar el orden y asegurar la legibilidad del código.
+- No omitir las etiquetas `<html>`, `<body>` y `<header>`.
+- Escribir en una línea los comentarios cortos.
+
+**CSS**: Entre las prácticas se mencionan:
+
+- Los nombres de clases son intuitivos, legibles y autodescriptivos.
+- Separar los nombres de las clases y ID con guión, por ejemplo: `#userViajero-id` y`.userImg-shape{}`
+- Separar las declaraciones y selectores en nuevas líneas para agilizar la legibilidad.
+- Usar comentarios para explicar el código.
+- Aplicar sangría a todo el contenido de un bloque.
+
+**JavaScript**: Principales prácticas aplicadas:
+
+- Uso de camelCase para nombrar variables y funciones. Por ejemplo, `myVariable` y `myFunction`.
+- Uso de PascalCase para nombrar clases y constructores.Por ejemplo, `myClass`.
+- Evitar el uso de nombres de variables genéricos o ambiguos.
+- Uso general de comentarios para explicar el propósito y funcionalidad de la porción del código.
+- Uso de punto y coma al final de cada declaración.
+- Uso de comillas simples ('') o comillas dobles ("") de forma consistente para las cadenas de texto.
+- Organización del código en bloques lógicos separados por líneas en blanco para mejorar la legibilidad.
+- Uso de el operador ternario `(condición ? resultadoTrue : resultadoFalse)` de manera adecuada y legible.
+- Evitar el uso de funciones obsoletas o en desuso.
+- Uso de try-catch para manejar y gestionar errores de manera adecuada.
+
+### 5.1.4. Software Deployment Configuration
+
+Para desplegar la landing page es necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+Crear una carpeta llamada "docs" para alojar el Landing Page. Asegurarse de que los archivos sigan las nomenclaturas "index.html", "style.css", "funcionalities.js" y una carpeta llamada "img" que contenga las imágenes. Cargar los archivos al repositorio mediante un commit. Dirigirse a Settings > Pages y seleccionar el branch correspondiente, en nuestro caso es el "main". Especificar la carpeta "docs" como la fuente de la página. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará al Landing Page desplegado
