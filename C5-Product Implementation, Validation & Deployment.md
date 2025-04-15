@@ -28,3 +28,22 @@ para elaborar la interfaz deusuario dentro de la aplicación. Ruta de referencia
 
 1. Github: Plataforma basada en la nube que alojará los repositorios de código del proyecto. Facilitará la colaboración entiempo real y la revisión de contribuciones de cada miembro del equipo. Los miembros del equipo accederán a través desus navegadores web. Ruta de referencia https://github.com/
 
+### 5.1.2. Source Code Management
+
+Para organizar nuestro proyecto y sus modificaciones, hemos seguido lo propuesto por Vincent Dreissen: un modelo de Git de branching permite gestionar ramas de un proyecto, asi como facilitar el flujo de trabajo. Partimos con una main branch o rama master, y junto a ella, una develop branch. A partir de la rama master, surgen las Hotfix branches, que nos permiten solucionar problemas criticos directamente de la rama master. También creamos Feature branches para los cambios que hicimos a lo largo del proyecto. Estos, mediante un merge, se unen a la develop Branch. Y la develop branch al Main.
+
+**Liks del repositorio de GitHub**:
+
+- Link de la organización: https://github.com/upc-pre-2025101asi0729-G05-RepoRangers
+- Link de la landing page: https://github.com/upc-pre-2025101asi0729-G05-RepoRangers/LandingPage
+- Link del informe: https://github.com/upc-pre-2025101asi0729-G05-RepoRangers/Report
+- Link del front end: https://github.com/upc-pre-2025101asi0729-G05-RepoRangers/Frontend
+- Link del back end: https://github.com/upc-pre-2025101asi0729-G05-RepoRangers/Backend
+
+Estrucutra de las ramas:
+
+- **Main Branch:** Esta rama es la principal de la aplicación. Donde se encontrarán las versiones más estables del desarrollo. Solo se admiten cambios que hayan sido probados en otras ramas.
+- **Develop Branch:** Esta rama es donde se realizarán los avances del proyecto y desarollo.
+- **Feature Branch:** Esta rama es donde se implementarán nuevas características de la aplicación, para luego ser enviada a la rama de desarrollo.
+- **Release Branch:** Esta rama es una instancia de la rama Develop, para posteriormente ser enviada a la rama Main.
+- **Hotfix Branch:** Estas ramas son creadas con la finalidad de corregir errores puntuales que puedan estar perjudicando al usuario en su experiencia de uso de la aplicación.
