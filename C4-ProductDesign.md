@@ -134,3 +134,72 @@
 > - Be a Partner
 > - Reviews
 > - Log In
+>
+## 4.3.Landing Page UI Design
+> El diseño aimplementar en la Landing Page sera de suma importancia, ya que este sera el primer vistazo que los usuarios tendran de nuestro producto. Para esto debemos crear una experiencia que captura la atencion de los usuarios de la pagina y los incentive a regresar progresivamente.
+### 4.3.1.Landing Page Wireframe
+> **Web Version - Home Page** <br>
+> Esta sera la seccion inicial a la cual el usuario sera enviado al momento de ingresar a nuestra plataforma. Aqui se mostrara proceso por el cual nuestro servicio es ofrecido. <br>
+> <img src="images/Wireframe-HomePage.png" alt="HomePage"> <br>
+> **Web Version - OurSystem** <br>
+>En esta seccion se mostrara como poder rentar una bicicleta en nuestra plataforma <br>
+> <img src="images/Wireframe-OurSystem.png" alt="Reparations"> <br>
+> **Web Version - Be a Partner** <br>
+> Seccion en la cual se mostrara como unirte a nuestra plataforma como arrendador <br>
+> <img src="images/Wireframe-BeAPartner.png" alt="BeTechnician"> <br>
+> **Web Version - Reviews** <br>
+> Seccion en la cual se mmostraran las opiniones de nuestros usuarios, tanto clientes como arrendadores <br>
+> <img src="images/Wireframe-Reviews.png" alt="Reviews"> <br>
+> **Mobile Web Version - Home Page** <br>
+>Esta sera la seccion inicial a la cual el usuario sera enviado al momento de ingresar a nuestra plataforma. Aqui se mostrara proceso por el cual nuestro servicio es ofrecido. <br>
+> <img src="images/Wireframe-MobileHomePage.png" alt="Wireframe-MobileHomePage"> <br>
+> **Mobile Web Version - OurSystem** <br>
+>En esta seccion se mostrara como poder rentar una bicicleta en nuestra plataforma <br>
+><img src="images/Wireframe-MobileOurSystem.png" alt="Wireframe-MobileReparations"> <br>
+>**Mobile Web Version - Be a Partner** <br>
+> Seccion en la cual se mostrara como unirte a nuestra plataforma como arrendador <br>
+> <img src="images/Wireframe-MobileBeaPartner.png" alt="Wireframe-MobileBeTech"> <br>
+>**Mobile Web Version - Reviews** <br>
+> Seccion en la cual se mmostraran las opiniones de nuestros usuarios, tanto clientes como arrendadores <br>
+><img src="images/Wireframe-MobileReviews.png" alt="Wireframe-MobileReviews"> <br>
+### 4.3.2.Landing Page Mock-up
+## 4.4.Web Applications UX/UI Design
+### 4.4.1.Web Applications Wireframes
+### 4.4.2.Web Applications Wireflow Diagrams
+### 4.4.3.Web Applications Mock-ups
+### 4.4.4.Web Applications User Flow Diagrams
+## 4.5.Web Applications Prototyping
+## 4.6.Domain-Driven Software Architecture
+> En esta seccion se presentaran los tres niveles del modelo C4 aplicando Domain Driven Design.
+### 4.6.1.Software Architecture Context Diagram.
+> El diagrama de contexto nos muestra los tipos de usuario que interactuan con el aplicativo web, y a la vez los servicios y/o con los que la plataforma interactua.  <br>
+> <img src="images/DDD-ContextDiagram.png" alt="ContextDiagram"> <br>
+### 4.6.2.Software Architecture Container Diagrams. <br>
+> Este diagram nos permite tener una vision enfocada al desarrollo. Se muestra la forma en la que los usuarios interactuan con la Landing Page, Web App y Mobile App.
+> A la vez que se muestra como estas plataformas interactuan con los servicios externos vinculados. <br>
+> <img src="images/DDD-ContainerDiagram.png" alt="ContainerDiagram"> <br>
+### 4.6.3.Software Architecture Components Diagrams. <br>
+>En esta seccion se muestra los diagramas de comppnentes de cada uno de los bounded contexts definidos. <br>
+> **APIRest - Component** <br>
+> <img src="images/DDD-APIRest.png" alt="APIRest"> <br>
+> **Booking - Component** <br>
+> <img src="images/DDD-Booking.png" alt="Booking"> <br>
+> **LocationRouting - Component** <br>
+> <img src="images/DDD-LocationRouting.png" alt="LocationRouting"> <br>
+> **Notification - Component** <br>
+> <img src="images/DDD-Notification.png" alt="Notification"> <br>
+> **Payment - Component** <br>
+> <img src="images/DDD-Payment.png" alt="Payment"> <br>
+> **Review - Component** <br>
+> <img src="images/DDD-Review.png" alt="Review"> <br>
+> **Scheduling - Component** <br>
+> <img src="images/DDD-Scheduling.png" alt="Scheduling"> <br>
+> **ServiceCatalog - Component** <br>
+> <img src="images/DDD-ServiceCatalog.png" alt="ServiceCatalog"> <br>
+> **UserManagement - Component** <br>
+> <img src="images/DDD-UserManagement.png" alt="UserManagement"> <br>
+## 4.7.Software Object-Oriented Design.
+### 4.7.1.Class Diagrams.
+### 4.7.2.Class Dictionary.
+## 4.8.Database Design.
+### 4.8.1.Database Diagram.
