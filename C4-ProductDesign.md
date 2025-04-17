@@ -140,7 +140,7 @@
 ### 4.3.1.Landing Page Wireframe
 > **Web Version - Home Page** <br>
 > Esta sera la seccion inicial a la cual el usuario sera enviado al momento de ingresar a nuestra plataforma. Aqui se mostrara proceso por el cual nuestro servicio es ofrecido. <br>
-> <img src="images/Wireframe-HomePage.png" alt="HomePage"> <br>
+> <img src="images/Wireframe-HomePag.png" alt="HomePage"> <br>
 > **Web Version - OurSystem** <br>
 >En esta seccion se mostrara como poder rentar una bicicleta en nuestra plataforma <br>
 > <img src="images/Wireframe-OurSystem.png" alt="Reparations"> <br>
@@ -173,31 +173,29 @@
 > En esta seccion se presentaran los tres niveles del modelo C4 aplicando Domain Driven Design.
 ### 4.6.1.Software Architecture Context Diagram.
 > El diagrama de contexto nos muestra los tipos de usuario que interactuan con el aplicativo web, y a la vez los servicios y/o con los que la plataforma interactua.  <br>
-> <img src="images/DDD-ContextDiagram.png" alt="ContextDiagram"> <br>
+> <img src="images/structurizr-101334-Context.png" alt="ContextDiagram"> <br>
 ### 4.6.2.Software Architecture Container Diagrams. <br>
 > Este diagram nos permite tener una vision enfocada al desarrollo. Se muestra la forma en la que los usuarios interactuan con la Landing Page, Web App y Mobile App.
 > A la vez que se muestra como estas plataformas interactuan con los servicios externos vinculados. <br>
-> <img src="images/DDD-ContainerDiagram.png" alt="ContainerDiagram"> <br>
+> <img src="images/structurizr-101334-Contenedor.png" alt="ContainerDiagram"> <br>
 ### 4.6.3.Software Architecture Components Diagrams. <br>
 >En esta seccion se muestra los diagramas de comppnentes de cada uno de los bounded contexts definidos. <br>
 > **APIRest - Component** <br>
-> <img src="images/DDD-APIRest.png" alt="APIRest"> <br>
-> **Booking - Component** <br>
-> <img src="images/DDD-Booking.png" alt="Booking"> <br>
-> **LocationRouting - Component** <br>
-> <img src="images/DDD-LocationRouting.png" alt="LocationRouting"> <br>
+> <img src="images/structurizr-101334-API Rest Component Diagram.png" alt="APIRest"> <br>
+> **Bike Inventory - Component** <br>
+> <img src="images/structurizr-101334-Bike Inventory BC Component Diagram.png" alt="Booking"> <br>
+> **Bike Owner - Component** <br>
+> <img src="images/structurizr-101334-Bike Owner BC Component Diagram.png" alt="LocationRouting"> <br>
+> **Bike Rental - Component** <br>
+> <img src="images/structurizr-101334-Bike Rental BC Component Diagram.png" alt="Notification"> <br>
 > **Notification - Component** <br>
-> <img src="images/DDD-Notification.png" alt="Notification"> <br>
-> **Payment - Component** <br>
-> <img src="images/DDD-Payment.png" alt="Payment"> <br>
+> <img src="images/structurizr-101334-Notification BC Component Diagram.png" alt="Payment"> <br>
 > **Review - Component** <br>
-> <img src="images/DDD-Review.png" alt="Review"> <br>
-> **Scheduling - Component** <br>
-> <img src="images/DDD-Scheduling.png" alt="Scheduling"> <br>
-> **ServiceCatalog - Component** <br>
-> <img src="images/DDD-ServiceCatalog.png" alt="ServiceCatalog"> <br>
-> **UserManagement - Component** <br>
-> <img src="images/DDD-UserManagement.png" alt="UserManagement"> <br>
+> <img src="images/structurizr-101334-Review BC Component Diagram.png" alt="Review"> <br>
+> **Payment - Component** <br>
+> <img src="images/structurizr-101334-Payment BC Component Diagram.png" alt="Scheduling"> <br>
+> **User Management - Component** <br>
+> <img src="images/structurizr-101334-User Management BC Component Diagram.png" alt="ServiceCatalog"> <br>
 ## 4.7.Software Object-Oriented Design.
 ### 4.7.1.Class Diagrams.
 ### 4.7.2.Class Dictionary.
