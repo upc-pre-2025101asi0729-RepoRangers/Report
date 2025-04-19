@@ -31,7 +31,7 @@ Producto: BikeShare
 |      Rodrigo Alaya Cabrera      | U202219481 |
 |      Niurka Lucero Huarcaya Quispe       | U20...... |
 |      José Luis Martinez Valdivia         | U20..... |
-|      Maria Fernanda Mostajo Orosco       | U20...... |
+|      Maria Fernanda Mostajo Orosco       | U202312874 |
 |      Karen Stephanie Ramos Carpio          | U20201e493 |
 
 Abril 2025
@@ -256,7 +256,7 @@ Bikeshare es una plataforma web colaborativa que permite a los usuarios alquilar
 		<td style="text-align: center" align="center"> </td>
 	</TR>
   	<TR>
-		<td style="text-align: center" align="center"><p align="center"> Maria Fernanda Mostajo Orosco - U20  <img src="images/fotoMelina.jpg" alt="Foto José" width="45%"> </p></td> 
+		<td style="text-align: center" align="center"><p align="center"> Maria Fernanda Mostajo Orosco - U202312874  <img src="images/fotoMaria.jpeg" alt="Foto José" width="45%"> </p></td> 
 		<td style="text-align: center" align="center"></td>
 		<td style="text-align: center" align="center"></td>
 	</TR>
@@ -266,4 +266,3 @@ Bikeshare es una plataforma web colaborativa que permite a los usuarios alquilar
 		<td style="text-align: center" align="center">Desarrollador entusiasta de resolución de problemas de .NET con experiencia en C#, JavaScript, TypeScript, Golang, C++, HTML CSS. Además de .NET, .Net Core, 		Angular, React y Kendo UI.Trabaja bien tanto individualmente como en un ambiente de equipo. Como profesional de TI, me dedico a administrar mis proyectos hasta su finalización, asegurándose de que se 		completen en el plazo establecido</td>
 	</TR>
 </TABLE>
-
