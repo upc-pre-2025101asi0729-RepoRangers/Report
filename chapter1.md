@@ -150,11 +150,15 @@ El lean UX es un enfoque de diseño que se centra en la eficiencia y la adaptabi
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-Nuestra plataforma ofrece un servicio que permite a los usuarios de Lima Metropolitana alquilar y rentar bicicletas entre sí de manera segura, práctica y geolocalizada. Esto les brinda la oportunidad de acceder a un medio de transporte económico, ecológico y flexible, así como les permite a los propietarios de bicicletas generar ingresos adicionales.
+El estado actual de la movilidad urbana en Lima Metropolitana se ha centrado principalmente en la propiedad individual de bicicletas, servicios de alquiler tradicionales y plataformas de movilidad fragmentadas que carecen de integración entre pares en tiempo real. Estos enfoques suelen fallar en ofrecer datos precisos y actualizados sobre la disponibilidad y ubicación de bicicletas, lo que genera una experiencia frustrante para el usuario.
 
-Hemos identificado un desafío crucial en nuestra plataforma: enfrenta dificultades para optimizar la precisión de la disponibilidad en tiempo real de las bicicletas, lo cual afecta la experiencia del usuario al momento de realizar una reserva. En un contexto donde la movilidad urbana sostenible se vuelve cada vez más necesaria, es crucial que nuestro sistema garantice información actualizada, precisa y confiable. Sin esta precisión, corremos el riesgo de generar desconfianza en los usuarios, disminuir el uso del servicio y afectar la eficiencia de la red de alquileres entre particulares.
+Lo que los servicios existentes no logran abordar es la necesidad de una solución confiable de alquiler de bicicletas entre particulares que garantice precisión en la disponibilidad y geolocalización en tiempo real, aspecto clave para quienes buscan opciones de transporte rápidas y ecológicas en una ciudad congestionada.
 
-¿Cómo podemos mejorar la actualización en tiempo real del estado y ubicación de las bicicletas en la plataforma para asegurar una experiencia fluida, confiable y satisfactoria tanto para arrendatarios como para arrendadores?
+Nuestro servicio abordará esta brecha mediante el desarrollo de una plataforma segura y geolocalizada que permita a los usuarios alquilar y rentar bicicletas entre sí, con actualizaciones en tiempo real sobre disponibilidad y ubicación, mejorando así la confianza y usabilidad del sistema.
+
+Nuestro enfoque inicial estará dirigido a personas que se desplazan diariamente en Lima Metropolitana, que buscan alternativas de transporte económicas y flexibles y que están abiertos al uso de plataformas entre pares.
+
+Sabremos que hemos tenido éxito cuando veamos un aumento en las reservas completadas, reducción de cancelaciones por falta de disponibilidad, mejores puntuaciones de satisfacción del usuario y crecimiento en la cantidad de nuevos usuarios y bicicletas activas en la plataforma.
 
 
 #### 1.2.2.2. Lean UX Assumptions
@@ -280,4 +284,3 @@ Aspectos psicográficos:
 - Buscan plataformas confiables y seguras para gestionar reservas y pagos.
 - Valoran la visibilidad de su bicicleta en un mapa interactivo para atraer más clientes.
 - Tienen afinidad por el uso de herramientas digitales para facilitar la gestión de sus recursos.
-
