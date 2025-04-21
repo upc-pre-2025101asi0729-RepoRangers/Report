@@ -140,7 +140,7 @@
 ### 4.3.1.Landing Page Wireframe
 > **Web Version - Home Page** <br>
 > Esta sera la seccion inicial a la cual el usuario sera enviado al momento de ingresar a nuestra plataforma. Aqui se mostrara proceso por el cual nuestro servicio es ofrecido. <br>
-> <img src="images/Wireframe-HomePag.png" alt="HomePage"> <br>
+> <img src="images/Wireframe-HomePage.png" alt="HomePage"> <br>
 > **Web Version - OurSystem** <br>
 >En esta seccion se mostrara como poder rentar una bicicleta en nuestra plataforma <br>
 > <img src="images/Wireframe-OurSystem.png" alt="Reparations"> <br>
@@ -197,7 +197,25 @@
 > **User Management - Component** <br>
 > <img src="images/structurizr-101334-User Management BC Component Diagram.png" alt="ServiceCatalog"> <br>
 ## 4.7.Software Object-Oriented Design.
-### 4.7.1.Class Diagrams.
+### 4.7.1.Class Diagrams
+> **General Diagram** <br>
+> <img src="images/ClassDiagram.png" alt="ClassDiagram"> <br>
+> **Geolocation - Component** <br>
+> <img src="images/ClassDiagram-Geolocation.png" alt="APIRest"> <br>
+> **Bike Inventory - Component** <br>
+> <img src="images/ClassDiagram-BikeInventory" alt="Booking"> <br>
+> **Lender Management - Component** <br>
+> <img src="images/ClassDiagram-LenderManagement.png" alt="LocationRouting"> <br>
+> **Bike Rental - Component** <br>
+> <img src="images/ClassDiagram-Rental.png" alt="Notification"> <br>
+> **Notification - Component** <br>
+> <img src="images/ClassDiagram-Notification.png" alt="Payment"> <br>
+> **Review - Component** <br>
+> <img src="images/ClassDiagram-Review.png" alt="Review"> <br>
+> **Payment - Component** <br>
+> <img src="images/ClassDiagram-Payment.png" alt="Scheduling"> <br>
+> **User Management - Component** <br>
+> <img src="images/ClassDiagram-UserManagement.png" alt="ServiceCatalog"> <br>
 ### 4.7.2.Class Dictionary.
 ## 4.8.Database Design.
 ### 4.8.1.Database Diagram.
