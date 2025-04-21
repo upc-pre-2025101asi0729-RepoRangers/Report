@@ -182,6 +182,8 @@
 >En esta seccion se muestra los diagramas de comppnentes de cada uno de los bounded contexts definidos. <br>
 > **APIRest - Component** <br>
 > <img src="images/structurizr-101334-API Rest Component Diagram.png" alt="APIRest"> <br>
+> **Geolocation - Component** <br>
+>  <img src="images/structurizr-101334-GeoLocation.png" alt="Booking"> <br>
 > **Bike Inventory - Component** <br>
 > <img src="images/structurizr-101334-Bike Inventory BC Component Diagram.png" alt="Booking"> <br>
 > **Bike Owner - Component** <br>
