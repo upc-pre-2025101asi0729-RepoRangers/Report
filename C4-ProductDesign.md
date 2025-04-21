@@ -219,5 +219,231 @@
 > **User Management - Component** <br>
 > <img src="images/ClassDiagram-UserManagement.png" alt="ServiceCatalog"> <br>
 ### 4.7.2.Class Dictionary.
+####User Management BC
+
+####User
+
+- userId: Identificador único del usuario.
+
+- email: Correo electrónico.
+
+- passwordHash: Contraseña cifrada.
+
+- fullName: Nombre completo del usuario.
+
+- role: Indica si el usuario es CLIENT o LENDER.
+
+####UserRole (enum)
+
+- CLIENT: Usuario que alquila bicicletas.
+
+- LENDER: Usuario que presta sus bicicletas a la plataforma.
+
+AuthService
+
+login(email, password): Autentica a un usuario y retorna un AuthToken.
+
+register(userData): Registra un nuevo usuario.
+
+resetPassword(email): Inicia el proceso de restablecimiento de contraseña.
+
+Bike Inventory BC
+
+Bike
+
+bikeId: Identificador único de la bicicleta.
+
+ownerId: Identificador del propietario (LENDER).
+
+model: Modelo de la bicicleta.
+
+type: Tipo de bicicleta (ROAD, MOUNTAIN, etc.).
+
+location: Coordenadas geográficas actuales.
+
+status: Estado operativo actual de la bicicleta.
+
+BikeType (enum)
+
+ROAD, MOUNTAIN, ELECTRIC, HYBRID: Tipos de bicicletas.
+
+BikeStatus (enum)
+
+AVAILABLE, IN_USE, RESERVED, MAINTENANCE: Estados operacionales posibles.
+
+GeoPoint
+
+latitude: Latitud geográfica.
+
+longitude: Longitud geográfica.
+
+InventoryService
+
+registerBike(bikeData): Registra una bicicleta en el sistema.
+
+updateBikeLocation(bikeId, GeoPoint): Actualiza la ubicación de la bicicleta.
+
+setBikeStatus(bikeId, status): Cambia el estado operativo.
+
+getAvailableBikes(location, radius): Devuelve bicicletas disponibles cercanas.
+
+Rental Operations BC
+
+Rental
+
+rentalId: Identificador único del alquiler.
+
+bikeId: Bicicleta alquilada.
+
+clientId: Cliente que realiza el alquiler.
+
+startTime: Fecha y hora de inicio.
+
+endTime: Fecha y hora de fin.
+
+status: Estado del alquiler.
+
+price: Precio del alquiler.
+
+RentalStatus (enum)
+
+ONGOING, COMPLETED, CANCELLED: Estados posibles del alquiler.
+
+RentalService
+
+startRental(bikeId, clientId): Inicia un nuevo alquiler.
+
+endRental(rentalId): Finaliza el alquiler.
+
+calculatePrice(rentalId): Calcula el precio del alquiler.
+
+Lender Management BC
+
+LenderProfile
+
+lenderId: Identificador del LENDER (igual que userId).
+
+bio: Descripción o biografía del lender.
+
+totalEarnings: Total acumulado de ingresos por alquileres.
+
+rating: Calificación promedio basada en reviews.
+
+LenderService
+
+getLenderDashboard(lenderId): Retorna métricas del lender.
+
+listBikes(lenderId): Lista las bicicletas del lender.
+
+DashboardData
+
+earnings: Dinero ganado por el lender.
+
+activeBikes: Número de bicicletas disponibles.
+
+totalRentals: Total de alquileres completados.
+
+Payment & Billing BC
+
+Payment
+
+paymentId: Identificador del pago.
+
+rentalId: Alquiler asociado al pago.
+
+userId: Usuario que realiza el pago.
+
+amount: Cantidad pagada.
+
+timestamp: Fecha y hora del pago.
+
+status: Estado actual del pago.
+
+PaymentStatus (enum)
+
+PENDING, COMPLETED, FAILED: Posibles estados del pago.
+
+BillingService
+
+processPayment(userId, rentalId): Procesa el pago de un alquiler.
+
+refundPayment(paymentId): Procesa la devolución.
+
+generateInvoice(userId): Genera la factura del usuario.
+
+Invoice
+
+invoiceId: Identificador de la factura.
+
+userId: Usuario asociado.
+
+amount: Total facturado.
+
+issuedDate: Fecha de emisión.
+
+lineItems: Detalle de cargos.
+
+Geolocation & Navigation BC
+
+GeoService
+
+getNearbyBikes(location, radius): Encuentra bicicletas cercanas.
+
+trackBike(bikeId): Retorna ubicación actual de la bicicleta.
+
+getParkingZones(): Devuelve zonas de aparcamiento disponibles.
+
+GeoZone
+
+zoneId: Identificador único de la zona.
+
+coordinates: Coordenadas que definen la zona.
+
+Review & Feedback BC
+
+Review
+
+reviewId: Identificador del review.
+
+reviewerId: Usuario que hizo la review.
+
+targetUserId: Usuario evaluado.
+
+rating: Puntaje (por ejemplo, del 1 al 5).
+
+comment: Comentario del usuario.
+
+submittedAt: Fecha de envío.
+
+ReviewService
+
+submitReview(reviewerId, targetUserId, rating, comment): Crea un review.
+
+getUserReviews(userId): Obtiene reviews de un usuario.
+
+Notification BC
+
+Notification
+
+notificationId: Identificador de la notificación.
+
+userId: Destinatario.
+
+message: Contenido del mensaje.
+
+type: Categoría de notificación.
+
+createdAt: Fecha de creación.
+
+NotificationType (enum)
+
+REMINDER, ALERT, PROMOTION: Tipos de notificaciones.
+
+NotificationService
+
+sendNotification(userId, message, type): Envía una notificación.
+
+getUserNotifications(userId): Lista notificaciones del usuario.
 ## 4.8.Database Design.
 ### 4.8.1.Database Diagram.
+> <img src="iamges/DBdiagram.png" alt="DBdiagram">
