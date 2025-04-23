@@ -157,7 +157,7 @@ Este segmento se compone por tres usuarios jóvenes, estudiantes universitarios 
 
 **Gráfico de resultados:**
 
-![Características Segmento 1](grafico_segmento1_arrendatarios_actualizado.png)
+![Características Segmento 1](images/grafico_segmento1_arrendatarios_actualizado.png)
 
 **Análisis del gráfico:**
 
@@ -179,7 +179,7 @@ Este grupo está conformado por tres personas entre los 20 y 30 años que cuenta
 
 **Gráfico de resultados:**
 
-![Características Segmento 2](grafico_segmento2_propietarios_actualizado.png)
+![Características Segmento 2](images/grafico_segmento2_propietarios_actualizado.png)
 
 **Análisis del gráfico:**
 
