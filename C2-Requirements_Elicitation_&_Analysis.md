@@ -116,12 +116,8 @@ Se puede ver el video consolidado con todas las entrevistas realizadas en el sig
 
 </div>
 
-
-
-
-
    #### Resumen de entrevistas  segmento #1
-  segun lo que dice el documento debemo s escribir más que todo el comportamiento digital, hábitos, personalidad, tecnología usada, frustraciones, expectativas, dispositivos, canales de comunicación, etc.
+  Los tres entrevistados —Leslie, Jeremías y Juan Diego— muestran interés en una aplicación de alquiler de bicicletas siempre que esta garantice seguridad, practicidad y confianza en el proceso. Leslie, que ya ha usado este tipo de servicios, valora la verificación del arrendador, fotos reales de la bicicleta y un proceso de pago rápido con Yape o tarjeta; además, prefiere alquilar por tiempo para controlar mejor su trayecto. Jeremías, usuario frecuente de apps y scooters, también considera esencial conocer la reputación del arrendador y poder pagar desde el celular para evitar robos; ve el servicio como una opción ecológica y más económica que otros medios. Por su parte, Juan Diego, aunque nunca ha alquilado, reconoce su utilidad en lugares amplios o con poca disponibilidad de estacionamiento; valora una app con rastreo de bicis, información clara, y también prioriza la reputación del proveedor. Todos coinciden en que el tráfico, la inseguridad y la incomodidad del transporte urbano en Lima son frustraciones comunes, y destacan la importancia de una experiencia fluida, transparente y sin complicaciones.
 
 
 
