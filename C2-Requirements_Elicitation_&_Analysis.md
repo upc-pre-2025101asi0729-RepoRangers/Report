@@ -100,25 +100,34 @@ física, diferenciándose de la competencia tradicional. A través de su enfoque
      - ¿Qué le haría recomendar esta app a otros dueños de bicicleta?
   - [2.2.2. Registro de entrevistas]()
 
-    Para cada segmento se registraron 3 entrevistas. A continuación se muestra la recolección de datos que conseguimos tras realizar cada entrevista.
+    Para cada segmento se registraron 3 entrevistas. A continuación se muestra la recolección de datos que conseguimos tras realizar cada entrevista.  
+Se puede ver el video consolidado con todas las entrevistas realizadas en el siguiente enlace: [Ver video en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219481_upc_edu_pe/EXe7VEo3qRNLga7Dad4XsmEBq7EjGcMkY2Qbf_AZrcvSHQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=K2EsaK).
+
 
     **Segmento #1: Personas interesadas en alquilar bicicletas (Arrendatarios)**
 
-       | Número de entrevista | Datos del entrevistado | Evidencia de entrevista |
-       |----------------------|------------------------|--------------------------|
-       | 1 | - **Nombre:** <br> - **Edad:** <br> - **Distrito:** <br> - **Link del video:** [Enlace aquí](https://...)<br> - **Momento que inicia:** <br> - **Momento que termina:** <br> - **Duración:** | ![captura](images/entrevista1.png) |
-       | 2 | - **Nombre:** <br> - **Edad:** <br> - **Distrito:** <br> - **Link del video:** [Enlace aquí](https://...)<br> - **Momento que inicia:** <br> - **Momento que termina:** <br> - **Duración:** | ![captura](images/entrevista2.png) |
-       | 3 | - **Nombre:** <br> - **Edad:** <br> - **Distrito:** <br> - **Link del video:** [Enlace aquí](https://...)<br> - **Momento que inicia:** <br> - **Momento que termina:** <br> - **Duración:** | ![captura](images/entrevista3.png) |
+<div align="center">
+
+| Nº Entrevista | Datos del entrevistado                                                                                                                                                                | Resumen de la entrevista                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Evidencia de entrevista                          |
+|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| 1             | - **Nombre:** Leslie Vanessa Quispe de la Cruz  <br> - **Edad:** 22 años  <br> - **Distrito:** Jesús María <br> - **Momento que inicia:** 00:16  <br> - **Momento que termina:** 05:50  <br> - **Duración:** 5 min 34 seg | Leslie es una usuaria joven, universitaria, que se moviliza diariamente en Lima en microbús. Ha alquilado bicicletas antes, y considera la experiencia positiva, pero incómoda por la necesidad de buscar estaciones. Usa smartphone, Yape y tarjeta. Le interesan perfiles verificados, fotos, reseñas y facilidad de pago. Muestra desconfianza en plataformas sin reputación clara. Le interesa alquilar por tiempo para evitar tráfico, y valora una app rápida y sencilla. Se frustra con el tráfico, inseguridad y el calor. | ![captura](images/entrevista1.png)              |
+| 2             | - **Nombre:** Jeremías Nunton  <br> - **Edad:** 22 años  <br> - **Distrito:** Pueblo Libre <br> - **Momento que inicia:** 05:53  <br> - **Momento que termina:** 11:14  <br> - **Duración:** 5 min 61 seg | Jeremías es estudiante y usuario frecuente de taxis por app. No ha alquilado bicicletas, pero sí scooters. Muestra interés por la app especialmente en horarios de tráfico. Valora mucho la transparencia en comentarios y experiencia de otros usuarios. Usa principalmente apps para pagar por seguridad. Prefiere alquiler por tiempo. Se frustra con tarifas engañosas y congestión. Usa smartphone y considera valiosa una app ecológica y económica. Tiene altas expectativas sobre la propuesta. | ![captura](images/entrevista2.png)              |
+| 3             | - **Nombre:** Juan Diego Loo  <br> - **Edad:** 19 años  <br> - **Distrito:** Santiago de Surco <br> - **Momento que inicia:** 13:20  <br> - **Momento que termina:** 18:25  <br> - **Duración:** 5 min 5 seg | Juan Diego es universitario, usa micro y carro ocasionalmente. No ha alquilado bicicletas, pero tiene experiencia previa con una propia. Usaría la app para trayectos recreativos. Desea ver disponibilidad y rastreo de bicicletas. Usa PLIN, Yape y tarjeta. Le incomoda el tráfico, sobre todo en horas pico. Quiere una app fácil, con perfiles confiables, y posibilidad de ver experiencias previas. Prefiere alquilar por distancia y valora poder dejar la bicicleta en zonas autorizadas. | ![captura](images/entrevista3.png)              |
+
+</div>
 
 
-    #### Resumen de entrevistas  segmento #1
-    segun lo que dice el documento debemo s escribir más que todo el comportamiento digital, hábitos, personalidad, tecnología usada, frustraciones, expectativas, dispositivos, canales de comunicación, etc.
 
 
 
-    **Segmento #2: Personas dispuestas a rentar sus bicicletas (Arrendadores)**
+   #### Resumen de entrevistas  segmento #1
+  segun lo que dice el documento debemo s escribir más que todo el comportamiento digital, hábitos, personalidad, tecnología usada, frustraciones, expectativas, dispositivos, canales de comunicación, etc.
 
-       | Número de entrevista | Datos del entrevistado | Evidencia de entrevista |
+
+
+   **Segmento #2: Personas dispuestas a rentar sus bicicletas (Arrendadores)**
+
+   | Número de entrevista | Datos del entrevistado | Evidencia de entrevista |
        |----------------------|------------------------|--------------------------|
        | 1 | - **Nombre:** <br> - **Edad:** <br> - **Distrito:** <br> - **Link del video:** [Enlace aquí](https://...)<br> - **Momento que inicia:** <br> - **Momento que termina:** <br> - **Duración:** | ![captura](images/entrevista4.png) |
        | 2 | - **Nombre:** <br> - **Edad:** <br> - **Distrito:** <br> - **Link del video:** [Enlace aquí](https://...)<br> - **Momento que inicia:** <br> - **Momento que termina:** <br> - **Duración:** | ![captura](images/entrevista5.png) |
