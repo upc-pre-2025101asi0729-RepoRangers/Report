@@ -136,7 +136,55 @@ Se puede ver el video consolidado con todas las entrevistas realizadas en el sig
 
   #### Resumen de entrevistas segemento #2
   Los entrevistados Salvador, Mafer y Marjori tienen bicicletas propias y ven con buenos ojos la idea de rentarlas a través de una app, principalmente como una forma de generar ingresos extra cuando no las están utilizando. Todos coinciden en que su principal preocupación es la seguridad: temen robos, daños y un uso irresponsable por parte de los arrendatarios. Por ello, consideran indispensables medidas como GPS oculto, usuarios verificados, seguros contra incidentes y soporte técnico inmediato. También valoran recibir notificaciones claras sobre cada alquiler, incluyendo horarios, duración y ubicación de la bicicleta. Prefieren recibir pagos mediante métodos digitales como Yape, Plin o transferencias, y destacan la importancia de controlar el precio, condiciones y horarios del alquiler. Finalmente, recomendarían la app si esta les garantiza facilidad de uso, seguridad, soporte eficaz y una experiencia confiable para todos los involucrados.
-    
+   
+  - [2.2.3. Analisis de entrevistas]()
+
+En esta sección se presentan los hallazgos clave obtenidos a partir de las entrevistas realizadas a ambos segmentos objetivo. El análisis identifica las características objetivas y subjetivas con mayor recurrencia, expresadas en porcentajes, a fin de sustentar la construcción de los arquetipos de usuario (*User Personas*). Cada segmento cuenta con su respectivo gráfico que resume visualmente los resultados más relevantes.
+
+Los porcentajes fueron calculados sobre la base de 3 entrevistas realizadas por segmento.
+
+#### SEGMENTO 1: Personas interesadas en alquilar bicicletas (Arrendatarios)
+Este segmento se compone por tres usuarios jóvenes, estudiantes universitarios entre los 19 y 22 años, todos residentes en Lima Metropolitana. Usan medios de transporte como micros y taxis por aplicación, y están interesados en alternativas más eficientes, seguras y ecológicas.
+
+**Principales características comunes:**
+
+- 100% son menores de 25 años y viven en Lima Metropolitana.
+- 100% usan smartphones y prefieren pagos digitales como Yape, Plin o tarjeta.
+- 100% expresaron frustración con el tráfico e inseguridad urbana.
+- 100% valoran que la app sea intuitiva, segura y que permita ver reseñas del arrendador.
+- 67% ya ha alquilado bicicletas o scooters previamente.
+- 67% prefieren el alquiler por tiempo, por considerarlo más flexible.
+
+**Gráfico de resultados:**
+
+![Características Segmento 1](grafico_segmento1_arrendatarios_actualizado.png)
+
+**Análisis del gráfico:**
+
+Como se observa en el gráfico, existe una marcada uniformidad en las preferencias y necesidades de este segmento. Todas las características subjetivas relacionadas con la experiencia de usuario, confianza en el arrendador y frustraciones con el sistema de transporte actual están presentes en el 100% de los entrevistados. Las diferencias surgen en la experiencia previa alquilando y la modalidad preferida de alquiler, donde el 67% indica preferencia por alquiler por tiempo. Estos datos refuerzan la necesidad de diseñar una app sencilla, transparente y centrada en la seguridad del usuario.
+
+
+#### SEGMENTO 2: Personas que desean alquilar sus bicicletas (Propietarios)
+
+Este grupo está conformado por tres personas entre los 20 y 30 años que cuentan con bicicleta propia. Usan la bicicleta ocasional o diariamente y están dispuestos a rentarla si la plataforma garantiza seguridad, control y facilidad de uso.
+
+**Principales características comunes:**
+
+- 100% son menores de 25 años (2 de 3) y todos viven en Lima Metropolitana.
+- 100% tienen bicicleta propia y están familiarizados con apps colaborativas como Rappi o Airbnb.
+- 100% prefieren recibir pagos digitales por Plin, Yape o transferencia.
+- 100% se preocupan por robos, daños y mal uso de su bicicleta.
+- 100% desean GPS oculto, alertas y notificaciones sobre el uso.
+- 100% esperan soporte técnico eficiente y valorarían beneficios por formar parte de una comunidad.
+
+**Gráfico de resultados:**
+
+![Características Segmento 2](grafico_segmento2_propietarios_actualizado.png)
+
+**Análisis del gráfico:**
+
+El gráfico revela un alto consenso entre los entrevistados en cuanto a expectativas clave: seguridad, control de condiciones, soporte técnico y facilidad de uso. Aunque hay una ligera variabilidad en la frecuencia de uso de la bicicleta (67% uso ocasional vs. 33% uso diario), todos coinciden en que solo prestarían su bicicleta si se sienten protegidos. Esto indica que el diseño del servicio debe priorizar medidas tecnológicas como GPS, notificaciones automatizadas, seguros y un sistema de calificaciones para generar confianza.
+
 - [2.3. Needfinding]()
    - [2.3.1. User Personas]()
 
