@@ -51,6 +51,13 @@ Para asegurar que se desarrollen funcionalidades específicas que el usuario nec
 |TS05|Registro de eventos de auditoría|Como desarrollador backend, quiero auditar eventos como la creación de reservas y creación de bicicletas para que el sistema registre estos eventos importantes|Escenario 1: Registrar evento de creación de reserva <br>Dado que el usuario arrendatario ha iniciado sesión en la aplicación<br>Y realiza una reserva de bicicleta con éxito<br>Cuando el sistema guarda la reserva en la base de datos<br>Entonces el sistema registra un evento con el ID del usuario, la bicicleta reservada y la fecha<br><br>Escenario 2: Registrar evento de creación de bicicleta<br>Dado que el usuario arrendador agrega una nueva bicicleta al sistema<br>Cuando el sistema guarda la bicicleta en la base de datos<br>Entonces se registra el evento con el modelo de la bicicleta, el ID del usuario y la fecha|EP05|
 
 ## 3.3. Impact Mapping
+- **Primer segmento: Usuarios que desean alquilar bicicletas (arrendatarios)**
+  
+<a href="https://ibb.co/pr9t4jX4"><img src="https://i.ibb.co/wrx9ph6p/Impact-map-arrendatario.png" alt="Impact-map-arrendatario" border="0"></a>
+
+- **Segundo segmento: Usuarios que ofrecen sus bicicletas en alquiler (arrendadores)**
+  
+<a href="https://ibb.co/d4KpQpVP"><img src="https://i.ibb.co/XxJ5z5K7/Impact-map-arrendador.png" alt="Impact-map-arrendador" border="0"></a>
 
 ## 3.4. Product Backlog
 A continuación, se mostrará la herramienta Product Backlog, lista de trabajo ordenado por la prioridad para el equipo de desarrollo de RepoRangers.
