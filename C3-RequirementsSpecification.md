@@ -53,3 +53,35 @@ Para asegurar que se desarrollen funcionalidades específicas que el usuario nec
 ## 3.3. Impact Mapping
 
 ## 3.4. Product Backlog
+A continuación, se mostrará la herramienta Product Backlog, lista de trabajo ordenado por la prioridad para el equipo de desarrollo de RepoRangers.
+
+|Orden| User Story ID| Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8)|
+|---------------|--------|-------------|-------------------------|---------|
+|1|US01|Sección "Home"|Como visitante de ambos segmentos, quiero conocer rápidamente el propósito de la plataforma al ingresar a la página de inicio para saber si es útil para mí|2|
+|2|US02|Sección "Our system"|Como visitante del segmento arrendatario, quiero conocer el proceso de alquiler de bicicletas para saber cómo funciona antes de registrarme|2|
+|3|US03|Sección “Be a partner”|Como visitante del segmento arrendador, quiero conocer cómo ser parte de la comunidad de prestadores de bicicletas para evaluar si me interesa ofrecer la mía|2|
+|4|US04|Sección "Reviews"|Como visitante de ambos segmentos, quiero leer experiencias de otros usuarios para confiar más en la plataforma|3|
+|5|US05|Cambio de idioma|Como visitante de ambos segmentos, quiero cambiar el idioma del sitio web a español o inglés para entender mejor la información|5|
+|6|US06|Selección de rol|Como usuario, quiero poder elegir si quiero registrarme como arrendador o arrendatario desde la pantalla principal para que la plataforma me dirija a la pantalla de registro correspondiente|2|
+|7|US07|Registro de cuenta|Como usuario, quiero registrarme con mi correo electrónico y contraseña para acceder a la plataforma|5|
+|8|US09|Inicio de sesión|Como usuario registrado, quiero poder iniciar sesión con mis credenciales para acceder a mi cuenta y funcionalidades|5|
+|9|US11|Cierre de sesión|Como usuario, quiero cerrar sesión de forma segura para proteger mi cuenta cuando dejo de usar la plataforma|2|
+|10|US10|Edición de datos personales|Como usuario, quiero poder actualizar mi perfil y datos personales para mantener mi información actualizada|3|
+|11|US28|Términos y condiciones|Como usuario, quiero tener acceso a términos y condiciones claros para entender mis derechos como arrendador y arrendatario|1|
+|12|US12|Registro de una bicicleta|Como arrendador, quiero registrar una nueva bicicleta con sus datos y fotos para que los arrendatarios puedan verla y alquilarla|5|
+|13|US13|Edición de información de una bicicleta|Como arrendador, quiero editar la información de mis bicicletas para actualizar detalles|3|
+|14|US14|Eliminación de una bicicleta|Como arrendador, quiero eliminar bicicletas que ya no deseo alquilar para mantener mi listado limpio y actualizado|2|
+|15|US18|Configuración de disponibilidad|Como arrendador, quiero establecer días y horas disponibles para cada bicicleta para evitar reservas en momentos no deseados|5|
+|16|US20|Búsqueda de bicicletas por ubicación y disponibilidad|Como arrendatario, quiero buscar bicicletas disponibles según mi ubicación y horario deseado para encontrar opciones convenientes|5|
+|17|US21|Visualización de detalles de bicicletas|Como arrendatario, quiero ver información detallada de cada bicicleta incluyendo reseñas antes de alquilarla para tomar una decisión informada|3|
+|18|US22|Alquiler de bicicleta|Como arrendatario, quiero poder reservar una bicicleta por un periodo específico para utilizarla según mi necesidad|5|
+|19|US25|Pago del alquiler|Como arrendatario, quiero poder realizar el pago del alquiler dentro de la plataforma para asegurar la reserva de la bicicleta seleccionada|8|
+|20|US15|Historial de alquileres|Como arrendador, quiero visualizar un historial de alquileres de mis bicicletas para conocer la demanda y evaluar ingresos|3|
+|21|US23|Gestión de alquileres|Como arrendatario, quiero ver mis alquileres actuales y pasados para gestionar el uso y control de mis reservas|3|
+|22|US16|Visualización de estadísticas de uso|Como arrendador, quiero visualizar estadísticas de uso e ingresos generados por mis bicicletas para tomar mejores decisiones sobre mi oferta|5|
+|23|US08|Registro con cuenta de google|Como usuario, quiero poder registrarme utilizando mi cuenta de Google para facilitar el acceso|8|
+|24|US26|Comunicación con el arrendador|Como arrendatario, quiero poder contactar con el arrendador antes y durante el alquiler para coordinar la entrega o resolver dudas|5|
+|25|US19|Comunicación con el arrendatario|Como arrendador, quiero poder contactar al arrendatario antes o durante el alquiler para resolver dudas o emergencias|5|
+|26|US24|Calificación de bicicleta|Como arrendatario, quiero calificar la bicicleta y dejar un comentario tras su uso para ayudar a otros usuarios a elegir mejor|3|
+|27|US17|Calificaciones y comentarios de arrendatarios|Como arrendador, quiero ver calificaciones y comentarios de arrendatarios sobre mis bicicletas para mejorar el servicio que ofrezco|3|
+|28|US27|Reporte de estado de bicicleta|Como usuario, quiero poder reportar bicicletas en mal estado o problemas con un alquiler para mejorar la calidad del servicio|3|
