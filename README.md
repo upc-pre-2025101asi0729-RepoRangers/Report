@@ -97,19 +97,32 @@ Abril 2025
     <tr style="border-bottom: 1px solid black;">
       <td style="border-right: 1px solid black;"><strong>Comunica oralmente con efectividad a diferentes rangos de audiencia. </strong></td>
       <td style="border-right: 1px solid black;">
-        <ul>
           <p><strong>TB1</strong></p>
-        </ul>
-          <td> </td>
+	  <p>- Karen Ramos: Durante esta entrega, demostré habilidades de comunicación oral al colaborar activamente con mi equipo en la elaboración del capítulo 4 y en la definición de los 		          wireframes y mockups para la aplicación web, tanto en su versión móvil como de escritorio. Asimismo, participé en la preparación y conducción de una entrevista dirigida al segmento de 
+          Arrendatarios, lo cual implicó adaptar mi lenguaje y estilo comunicativo a un público específico para obtener información relevante de manera clara y empática. <br>
+          </p>
+	</td>
+          <td>
+		  <p><strong>TB1</strong></p>
+		  <p>Nuestra participación en reuniones de equipo y en la entrevista nos permitió fortalecer mi capacidad para expresar ideas de manera clara, empática y adaptada a distintos 
+                  interlocutores, logrando una comunicación oral efectiva en contextos tanto colaborativos como investigativos.</p>
+	 </td>
       <br>
      </tr>
       <tr style="border-bottom: 1px solid black;">
       <td style="border-right: 1px solid black;"><strong>Comunica por escrito con efectividad a diferentes rangos de audiencia.</strong></td>
       <td style="border-right: 1px solid black;">
-        <ul>
-          <p><strong>TB1</strong></p>
-        </ul>
-	        <td> </td>
+        <p><strong>TB1</strong>
+	  <p>- Karen Ramos: Contribuí al desarrollo del capítulo 5 del trabajo, aplicando una redacción clara, coherente y adecuada al público académico al que está dirigido. También fui responsable 
+          de redactar los contenidos de la sección “Reviews” de la Landing Page de la aplicación web, utilizando un estilo más directo y accesible, enfocado en usuarios finales. Estas tareas me 
+          permitieron adaptar mi comunicación escrita a diferentes contextos y tipos de audiencia. <br>
+          </p>
+	</td>
+          <td>
+		  <p><strong>TB1</strong>
+		 <p>La redacción de los capitulos y los textos para la landing page nos permitieron desarrollar una comunicación escrita precisa y adecuada al público objetivo, 
+                demostrando nuestra capacidad para adaptar el lenguaje y estilo según el contexto y propósito comunicativo.</p>
+	 </td>
       <br>
      </tr>
   </tbody>
