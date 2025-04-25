@@ -1,7 +1,21 @@
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Escenario Mapping
 - **Primer segmento: Usuarios que desean alquilar bicicletas (arrendatarios)**
+  
+  User Persona relacionado: Valeria Huamán, estudiante universitaria.
+
+  <a href="https://ibb.co/Z1BNHLgC"><img src="https://i.ibb.co/HptXNFPQ/Scenario-mapping-arrendatario.jpg" alt="Scenario-mapping-arrendatario" border="0"></a>
+
+  Descripción del mapeo: Este escenario ilustra cómo Valeria alquila una bicicleta de forma ágil, segura y confiable, a través de una plataforma que centraliza la búsqueda, reserva, uso y devolución del vehículo. Puede comparar distintas bicicletas, filtrar por ubicación y tipo, y leer opiniones de otros usuarios.
+
 - **Segundo segmento: Usuarios que ofrecen sus bicicletas en alquiler (arrendadores)**
+  
+  User Persona relacionado: Luis Antonio Rojas, técnico en telecomunicaciones.
+
+  <a href="https://ibb.co/spCsC3wp"><img src="https://i.ibb.co/KcDVDyqc/Scenario-mapping-arrendador.jpg" alt="Scenario-mapping-arrendador" border="0"></a>
+
+  Descripción del mapeo: Este escenario representa cómo Luis alquila su bicicleta utilizando una plataforma digital especializada. A diferencia del proceso informal anterior, ahora cada etapa, desde ofrecer su bicicleta hasta recibir el pago, está digitalizada y guiada por el sistema. Luis publica su bicicleta con fotos, descripción, precios y condiciones, y la plataforma se encarga de mostrarla a arrendatarios potenciales.
+
 ## 3.2. User Stories
 A continuación se presentan las épicas que describen las funcionalidades clave para la aplicación web.
 | Epic ID | Título | Descripcion |
