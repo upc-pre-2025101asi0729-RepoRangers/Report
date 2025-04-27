@@ -242,7 +242,7 @@ No obstante, el éxito inicial dependerá de superar la desconfianza inherente a
 
 ### Anexo B – Video de exposición
 
-- Video de exposición del proyecto en Microsoft Stream: <>
+- Video de exposición del proyecto: <https://www.canva.com/design/DAGlgUdRhn4/D28ySk4rs2xYvFd410JcRA/watch?utm_content=DAGlgUdRhn4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3bcee08328>
 
 
 ---
