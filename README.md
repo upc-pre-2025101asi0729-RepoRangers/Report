@@ -28,7 +28,7 @@ Producto: BikeShare
 |          Integrantes           |   Código   |
 | :----------------------------: | :--------: |
 |      Rodrigo Alaya Cabrera      | U202219481 |
-|      Niurka Lucero Huarcaya Quispe       | U20...... |
+|      Niurka Lucero Huarcaya Quispe       | U20221B226 |
 |      José Luis Martinez Valdivia         | U202213989 |
 |      Maria Fernanda Mostajo Orosco       | U20...... |
 |      Karen Stephanie Ramos Carpio          | U20201e493 |
@@ -103,6 +103,8 @@ Abril 2025
 	      	  <p>- Rodrigo Alaya: Durante esta entrega, demostré habilidades de comunicación oral al colaborar activamente en la organización del Capítulo II de nuestro proyecto, específicamente en la elaboración del análisis competitivo, las entrevistas y los mapeos de usuario. Además, presenté oralmente los hallazgos del "User Journey Mapping" y del "Empathy Mapping" ante el equipo, adaptando mi lenguaje para que fuera claro tanto para los compañeros de perfil técnico como para aquellos enfocados en diseño y negocio. Esta experiencia me permitió comunicar conceptos de análisis de usuarios de manera efectiva según el público. <br>
           </p>
 	      <p> - Jose Martinez: Adapte el lenguaje y el estilo de presentación para ser comprensible tanto para compañeros técnicos como para aquellos enfocados en diseño y negocios, asegurando claridad en contextos colaborativos e investigativos.</p>
+	      <p>- Niurka Huarcaya: Para esta entrega, cumplí con comunicar oralmente de forma efectiva porque adapté la información para diferentes audiencias usando herramientas visuales como escenarios To-Be, User Stories, Impact Mapping y Product Backlog. Expliqué conceptos técnicos de forma sencilla y estructurada, conectando los objetivos de negocio con acciones concretas, lo que facilitó que tanto públicos técnicos como no técnicos entendieran el valor, el proceso y el enfoque del proyecto. <br>
+          </p>
 	</td>
           <td>
 		  <p><strong>TB1</strong></p>
@@ -123,6 +125,8 @@ Abril 2025
           </p>
 	      <p> - Jose Martinez: Participe activamente en reuniones y tareas grupales, contribuyendo al desarrollo de wireframes, mockups y análisis de usuarios. Utilize hallazgos de investigación para fundamentar decisiones del proyecto, garantizando que las soluciones respondieran a necesidades reales. <br>
 		      </p>
+	      <p>-Niurka Huarcaya: Me encargué de redactar los escenarios To-Be, las User Stories, el Impact Mapping y el Product Backlog de forma clara, concisa y estructurada. Adapté la redacción para que tanto usuarios de negocio como técnicos pudieran comprender fácilmente los objetivos, impactos y funcionalidades, utilizando un lenguaje preciso, formatos visuales adecuados y niveles de detalle apropiados para cada audiencia. <br>
+          </p>
 	</td>
         <td>
 		  <p><strong>TB1</strong></p>
