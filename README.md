@@ -121,10 +121,13 @@ Abril 2025
           </p>
 	      	  <p>- Rodrigo Alaya: Fui responsable de redactar todo el Capítulo II: Requirements Elicitation & Analysis, incluyendo el análisis de competidores, entrevistas, y el needfinding (User Personas, Task Matrix, Journey Mapping, Empathy Mapping y As-is Scenario Mapping). Adapté mi comunicación escrita para ser formal, clara y adecuada al público académico del proyecto. Además, desarrollé el contenido para la sección "Be a Partner" en la Landing Page de la aplicación web, donde utilicé un estilo más directo y persuasivo, enfocado en usuarios potenciales interesados en asociarse a la plataforma BikeShare. <br>
           </p>
-	      <p> - Jose Martinez: Participe activamente en reuniones y tareas grupales, contribuyendo al desarrollo de wireframes, mockups y análisis de usuarios. Utilize hallazgos de investigación para fundamentar decisiones del proyecto, garantizando que las soluciones respondieran a necesidades reales.
-		      
-	      </p>
+	      <p> - Jose Martinez: Participe activamente en reuniones y tareas grupales, contribuyendo al desarrollo de wireframes, mockups y análisis de usuarios. Utilize hallazgos de investigación para fundamentar decisiones del proyecto, garantizando que las soluciones respondieran a necesidades reales. <br>
+		      </p>
 	</td>
+        <td>
+		  <p><strong>TB1</strong></p>
+		  <p>La realizacion de la TB1 nos permitio conocer mejor las necesidades de mercado y como llegara nuestro publico objetivo.</p>
+	 </td>
          
       <br>
      </tr>
