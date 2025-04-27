@@ -11,17 +11,14 @@ Al momento de crear el logo de BikeShare, se optó por un modelo minimalista que
 <img src="images/logo-producto.png" alt="Brand Logo"> <br>
 
 **Typography** <br>
-Para la tipografía de BikeShare, se eligió una fuente elegante y funcional que complementa la imagen general de la aplicación. La tipografía principal es **Roboto**, una fuente que ofrece excelente legibilidad en dispositivos móviles y proporciona un toque moderno y profesional al diseño. Para generar contraste en los textos importantes, se optó por **Roboto Slab**, una fuente llamativa que destaca la información clave y capta la atención del usuario.
+Para la tipografía de BikeShare, se eligió una fuente elegante y funcional que complementa la imagen general de la aplicación. La tipografía principal es **Roboto**, una fuente que ofrece excelente legibilidad en dispositivos móviles y proporciona un toque moderno y profesional al diseño. Para generar contraste en los textos importantes, se optó por **Roboto Slab**, una fuente llamativa que destaca la información clave y capta la atención del usuario. <br>
 
-Tipografías utilizadas:
+<br> Tipografías utilizadas:
 <img src="images/Roboto.png" alt="Roboto">
 <img src="images/RobotoSlab.png" alt="RobotoSlab"> <br>
 
 **Colors** <br>
 La paleta de colores de BikeShare está compuesta por tonos que evocan vitalidad, tranquilidad y motivación, alineados con un estilo de vida activo y equilibrado. Los colores seleccionados son brillantes y estimulantes, permitiendo captar la atención del usuario y reflejar la esencia de un producto innovador y lleno de energía.
-
-Paleta de colores:
-<img src="images/Colors.png" alt="Colors"> <br>
 
 **Spacing** <br>
 El espaciado desempeña un papel fundamental en el diseño de BikeShare, ya que organiza la información de forma clara y coherente.Se aplicó una separación amplia entre los elementos de la interfaz para mejorar la legibilidad y facilitar la navegación del usuario. Asimismo, se mantuvo un espaciado constante en todo el diseño, aportando equilibrio y armonía a la composición.
@@ -229,7 +226,7 @@ En esta seccion se muestra los diagramas de comppnentes de cada uno de los bound
 **Geolocation - Component** <br>
 <img src="images/ClassDiagram-Geolocation.png" alt="APIRest"> <br>
 **Bike Inventory - Component** <br>
-<img src="images/ClassDiagram-BikeInventory" alt="Booking"> <br>
+<img src="images/ClassDiagram-BikeInventory.png" alt="Booking"> <br>
 **Lender Management - Component** <br>
 <img src="images/ClassDiagram-LenderManagement.png" alt="LocationRouting"> <br>
 **Bike Rental - Component** <br>
