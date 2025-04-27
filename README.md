@@ -216,3 +216,13 @@ URL Project Report (Github): https://github.com/upc-pre-2025101asi0729-RepoRange
         - [5.2.1.6. Services Documentation Evidence for Sprint Review]()
         - [5.2.1.7. Software Deployment Evidence for Sprint Review]()
         - [5.2.1.8. Team Collaboration Insights during Sprint]()
+
+---
+
+# **Clonclusiones**
+
+BikeShare se perfila como una solución pertinente y técnicamente robusta frente a la urgente necesidad de micromovilidad sostenible en Lima Metropolitana. A partir de entrevistas y mapas de empatía, se constató que la seguridad, la disponibilidad en tiempo real y la transparencia son requisitos ineludibles para arrendatarios y arrendadores. La plataforma responde a estas expectativas mediante geolocalización precisa, pagos digitales integrados y un sistema de reputación que refuerza la confianza entre pares, todo dentro de un proceso Lean UX que promueve la retroalimentación continua y la iteración ágil.
+
+El diseño de producto mantiene coherencia visual gracias a guías de estilo minimalistas y Material Design, garantizando una experiencia uniforme en web y móvil. En el plano técnico, la arquitectura basada en dominios —Inventario, Alquiler, Pagos, Notificaciones y Reviews— ofrece escalabilidad y facilita integraciones futuras, mientras que el modelo sin estaciones fijas reduce costos operativos y permite expandirse con mayor rapidez que los competidores tradicionales. Esta flexibilidad, sumada a la creciente conciencia ecológica y al impulso de las autoridades locales hacia el uso de la bicicleta, posiciona a BikeShare como la alternativa más atractiva para trayectos urbanos cortos.
+
+No obstante, el éxito inicial dependerá de superar la desconfianza inherente al alquiler entre particulares y de alcanzar pronto una masa crítica de bicicletas disponibles. Se recomienda lanzar un MVP en un distrito piloto, reforzar campañas educativas y formalizar alianzas con municipalidades y colectivos ciclistas para asegurar zonas seguras y visibilidad temprana. Si se valida la hipótesis de satisfacción y se cumplen los indicadores de uso y crecimiento proyectados, BikeShare está en condiciones de convertirse en el referente de movilidad compartida en Lima y, posteriormente, de replicar su modelo en otras ciudades del país.
