@@ -226,3 +226,71 @@ BikeShare se perfila como una solución pertinente y técnicamente robusta frent
 El diseño de producto mantiene coherencia visual gracias a guías de estilo minimalistas y Material Design, garantizando una experiencia uniforme en web y móvil. En el plano técnico, la arquitectura basada en dominios —Inventario, Alquiler, Pagos, Notificaciones y Reviews— ofrece escalabilidad y facilita integraciones futuras, mientras que el modelo sin estaciones fijas reduce costos operativos y permite expandirse con mayor rapidez que los competidores tradicionales. Esta flexibilidad, sumada a la creciente conciencia ecológica y al impulso de las autoridades locales hacia el uso de la bicicleta, posiciona a BikeShare como la alternativa más atractiva para trayectos urbanos cortos.
 
 No obstante, el éxito inicial dependerá de superar la desconfianza inherente al alquiler entre particulares y de alcanzar pronto una masa crítica de bicicletas disponibles. Se recomienda lanzar un MVP en un distrito piloto, reforzar campañas educativas y formalizar alianzas con municipalidades y colectivos ciclistas para asegurar zonas seguras y visibilidad temprana. Si se valida la hipótesis de satisfacción y se cumplen los indicadores de uso y crecimiento proyectados, BikeShare está en condiciones de convertirse en el referente de movilidad compartida en Lima y, posteriormente, de replicar su modelo en otras ciudades del país.
+
+---
+# **Anexos**
+
+### Anexo A – Presentación Canva
+
+- Slides del proyecto BikeShare: <https://www.canva.com/design/DAGlgUdRhn4/uEmxzCUe5Jc1T-ZtSlT5Zw/edit?utm_content=DAGlgUdRhn4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>
+
+### Anexo B – Video de exposición
+
+- Video de exposición del proyecto en Microsoft Stream: <>
+
+
+---
+# **Bibliografía**
+
+Instituto Peruano de Economía. (2023, 15 de marzo). **Tráfico de Lima cuesta S/ 2 000 millones en pérdidas de productividad**. Recuperado de https://ipe.org.pe/trafico-de-lima-cuesta-s-2-mil-millones-en-perdidas-de-productividad/
+
+Municipalidad de Lima & CPI. (2024). **Solo el 3 % de limeños usa la bicicleta como medio de transporte**. Recuperado de https://www.gmu.munlima.gob.pe/index.php/es-es/noticias-gtu/item/260-municipalidad-de-lima-presento-resultados-de-estudio-sobre-el-uso-de-la-bicicleta-en-la-ciudad
+
+Gothelf, J., & Seiden, J. (2021). *Lean UX: Designing great products with agile teams* (3.ª ed.). O’Reilly Media.
+
+Google. (2024). **Material Design 3 – Design System**. Recuperado de https://m3.material.io
+
+GlobeNewswire. (2024, 16 de octubre). **Micromobility Global Business Report 2024: Market to reach US$ 9.4 billion by 2030**. Recuperado de https://www.globenewswire.com/news-release/2024/10/16/2963831/28124/en/Micromobility-Global-Business-Report-2024
+
+International Transport Forum. (2024). *Greener micromobility*. Recuperado de https://www.itf-oecd.org/sites/default/files/docs/greener-micromobility.pdf
+
+Bennett, M. (s. f.). **The Markdown Guide**. Recuperado de https://www.markdownguide.org/
+
+Tamim, N. (2018, 11 de mayo). **How to use PlantUML with Markdown**. *GitHub Gist*. Recuperado de https://gist.github.com/noamtamim/f11982b28602bd7e604c233fbe9d910f
+
+Structurizr Limited. (2024). **Embedding diagrams**. Recuperado de https://docs.structurizr.com/cloud/embed
+
+Mendel, J. (2018, 10 de abril). **Seriously, what’s your (startup’s) problem?** *Medium*. Recuperado de https://medium.com/@jakemendel/seriously-whats-your-startup-s-problem-b3a884c54ab4
+
+ProgressaLean. (s. f.). **5W+2H – Técnica de análisis de problemas**. Recuperado de https://www.progressalean.com/5w2h-tecnica-de-analisis-de-problemas/
+
+Fowler, M. (2004, 25 de junio). **Ubiquitous language**. Recuperado de https://martinfowler.com/bliki/UbiquitousLanguage.html
+
+Open Practice Library. (s. f.). **Ubiquitous language: Unambiguously define the terms and concepts of a business domain**. Recuperado de https://openpracticelibrary.com/practice/ubiquitous-language/
+
+Gothelf, J., & Seiden, J. (s. f.). **Lean UX – Chapter 3 (Sampler)**. *Scribd*. Recuperado de https://www.scribd.com/document/655516553/Leanux-Sampler
+
+Cohn, M. (s. f.). **User stories articles**. *Mountain Goat Software Blog*. Recuperado de https://www.mountaingoatsoftware.com/blog/tag/user-stories
+
+UXPressia. (2022, 3 de marzo). **User vs. buyer persona: Differences and free template**. Recuperado de https://uxpressia.com/blog/user-persona-vs-buyer-persona-difference
+
+UXPressia. (2021, 7 de julio). **How to create an impact map in 4 easy steps**. Recuperado de https://uxpressia.com/blog/build-impact-map-4-easy-steps
+
+IBM. (s. f.). **As-is scenario map: Build a better understanding of your users’ current experience**. Recuperado de https://www.ibm.com/design/thinking/page/toolkit/activity/as-is-scenario-map
+
+IBM. (s. f.). **To-be scenario map: Draft a vision of your user’s future experience to show how your ideas address their current needs**. Recuperado de https://www.ibm.com/design/thinking/page/toolkit/activity/to-be-scenario-map
+
+IBM. (s. f.). **Empathy map: Build empathy for your users through a conversation informed by your team’s observations**. Recuperado de https://www.ibm.com/design/thinking/page/toolkit/activity/empathy-map
+
+Nielsen Norman Group. (2022, 8 de junio). **Empathy mapping: The first step in design thinking**. Recuperado de https://www.nngroup.com/articles/empathy-mapping/
+
+DZone. (s. f.). **Acceptance criteria in Scrum: Explanation, examples, and template**. Recuperado de https://dzone.com/articles/acceptance-criteria-in-software-explanation-exampl
+
+Dittrich, J. (2020). **A beginner’s guide to finding user needs**. Recuperado de https://jdittrich.github.io/userNeedResearchBook/
+
+Modern Requirements. (2023, 12 de enero). **Using a requirements traceability matrix to improve project quality**. Recuperado de https://www.modernrequirements.com/blogs/using-a-requirements-traceabilitymatrix-to-improve-project-quality/
+
+Otiscole. (s. f.). **Customer portfolio – What’s cookin’**. Recuperado de http://otiscole.com
+
+Cockburn, N. (2017, 1 de noviembre). **A step-by-step guide to scenario mapping**. *UX for the Masses*. Recuperado de http://www.uxforthemasses.com/scenario-mapping/
+
