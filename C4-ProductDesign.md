@@ -17,7 +17,7 @@ Para la tipografía de BikeShare, se eligió una fuente elegante y funcional que
 <img src="images/RobotoSlab.png" alt="RobotoSlab"> <br>
 
 **Colors** <br>
-La paleta de colores de BikeShare está compuesta por tonos que evocan vitalidad, tranquilidad y motivación, alineados con un estilo de vida activo y equilibrado. Los colores seleccionados son brillantes y estimulantes, permitiendo captar la atención del usuario y reflejar la esencia de un producto innovador y lleno de energía.
+La paleta de colores de BikeShare está compuesta por tonos que evocan vitalidad, tranquilidad y motivación, alineados con un estilo de vida activo y equilibrado. Los colores seleccionados son brillantes y estimulantes, permitiendo captar la atención del usuario y reflejar la esencia de un producto innovador y lleno de energía. <br>
  ![Alt Text](images/Colors.png)
 
 **Spacing** <br>
