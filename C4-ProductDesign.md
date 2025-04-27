@@ -253,6 +253,14 @@ El usuario desea revisar su hitorial de rentals<br>
 <img src="images/Wireflow7.PNG" alt="wireflow">
 
 ### 4.4.3.Web Applications Mock-ups
+
+**Web Version - Login**  
+<img src="images/Mockup-login.PNG" alt="Login">
+<img src="images/Mockup-login2.PNG" alt="Login">
+
+**Web Version - Sing Up**  
+<img src="images/Mockup-singup.PNG" alt="SingUP">
+
 ### 4.4.4.Web Applications User Flow Diagrams
 ## 4.5.Web Applications Prototyping
 ## 4.6.Domain-Driven Software Architecture
