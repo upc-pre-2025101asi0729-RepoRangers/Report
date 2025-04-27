@@ -232,7 +232,7 @@ No obstante, el éxito inicial dependerá de superar la desconfianza inherente a
 
 ### Anexo A – Presentación Canva
 
-- Slides del proyecto BikeShare: <https://www.canva.com/design/DAGlgUdRhn4/uEmxzCUe5Jc1T-ZtSlT5Zw/edit?utm_content=DAGlgUdRhn4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>
+- Slides del proyecto BikeShare: <https://www.canva.com/design/DAGl2Xw5klg/mV_AIbweIk_WJksb2Doceg/edit?utm_content=DAGl2Xw5klg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>
 
 ### Anexo B – Video de exposición
 
