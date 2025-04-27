@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="images/UpcLogo.png" alt="Logo de UPC" width="100%">
-</p>
+  [Alt Text](images/UpcLogo.png)
+
 
 <div align="center">
 
@@ -30,7 +29,7 @@ Producto: BikeShare
 | :----------------------------: | :--------: |
 |      Rodrigo Alaya Cabrera      | U202219481 |
 |      Niurka Lucero Huarcaya Quispe       | U20...... |
-|      José Luis Martinez Valdivia         | U20..... |
+|      José Luis Martinez Valdivia         | U202213989 |
 |      Maria Fernanda Mostajo Orosco       | U20...... |
 |      Karen Stephanie Ramos Carpio          | U20201e493 |
 
@@ -103,6 +102,7 @@ Abril 2025
           </p>
 	      	  <p>- Rodrigo Alaya: Durante esta entrega, demostré habilidades de comunicación oral al colaborar activamente en la organización del Capítulo II de nuestro proyecto, específicamente en la elaboración del análisis competitivo, las entrevistas y los mapeos de usuario. Además, presenté oralmente los hallazgos del "User Journey Mapping" y del "Empathy Mapping" ante el equipo, adaptando mi lenguaje para que fuera claro tanto para los compañeros de perfil técnico como para aquellos enfocados en diseño y negocio. Esta experiencia me permitió comunicar conceptos de análisis de usuarios de manera efectiva según el público. <br>
           </p>
+	      <p> Jose Martinez: Adapte el lenguaje y el estilo de presentación para ser comprensible tanto para compañeros técnicos como para aquellos enfocados en diseño y negocios, asegurando claridad en contextos colaborativos e investigativos.</p>
 	</td>
           <td>
 		  <p><strong>TB1</strong></p>
@@ -121,6 +121,9 @@ Abril 2025
           </p>
 	      	  <p>- Rodrigo Alaya: Fui responsable de redactar todo el Capítulo II: Requirements Elicitation & Analysis, incluyendo el análisis de competidores, entrevistas, y el needfinding (User Personas, Task Matrix, Journey Mapping, Empathy Mapping y As-is Scenario Mapping). Adapté mi comunicación escrita para ser formal, clara y adecuada al público académico del proyecto. Además, desarrollé el contenido para la sección "Be a Partner" en la Landing Page de la aplicación web, donde utilicé un estilo más directo y persuasivo, enfocado en usuarios potenciales interesados en asociarse a la plataforma BikeShare. <br>
           </p>
+	      <p> Jose Martinez: Participe activamente en reuniones y tareas grupales, contribuyendo al desarrollo de wireframes, mockups y análisis de usuarios. Utilize hallazgos de investigación para fundamentar decisiones del proyecto, garantizando que las soluciones respondieran a necesidades reales.
+		      
+	      </p>
 	</td>
           <td>
 		  <p><strong>TB1</strong>
