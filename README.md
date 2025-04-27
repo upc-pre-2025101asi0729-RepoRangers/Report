@@ -28,7 +28,7 @@ Producto: BikeShare
 
 |          Integrantes           |   Código   |
 | :----------------------------: | :--------: |
-|      Rodrigo Alaya Cabrera      | U20..... |
+|      Rodrigo Alaya Cabrera      | U202219481 |
 |      Niurka Lucero Huarcaya Quispe       | U20...... |
 |      José Luis Martinez Valdivia         | U20..... |
 |      Maria Fernanda Mostajo Orosco       | U20...... |
