@@ -56,7 +56,7 @@ Para el desarrollo de la versión móvil, se continuará utilizando **Material D
 **Transitions** <br>
 Se aplicarán transiciones que permitan una experiencia cohesiva y predecible durante el uso de la plataforma.
 
-> <img src="images/Transition.png" alt="Transition">
+<img src="images/Transition.png" alt="Transition">
 
 ## 4.2. Information Architecture
 > En este apartado se detallarán el contenido visual y las etiquetas que se usarán en la elaboración del Landing Page y de la Página Web. Se revisarán tópicos como Labelling Systems, Organization Systems, SEO, Meta Tags, y Searching y Navigation Systems.
@@ -92,7 +92,7 @@ Sección que muestra los comentarios y opiniones de arrendadores y clientes sobr
 Permitirá una experiencia fluida y adaptable en diferentes dispositivos.
 
 ### 4.2.2. Labeling Systems
-> Se decidió usar etiquetas para organizar las secciones de la plataforma web, permitiendo un acceso más rápido y ordenado.
+Se decidió usar etiquetas para organizar las secciones de la plataforma web, permitiendo un acceso más rápido y ordenado.
 
 | Tópico | Definición |
 |----------|----------|
@@ -145,7 +145,7 @@ El **Navigation System** permitirá a los usuarios desplazarse fácilmente por l
 - Log In
 
 ## 4.3. Landing Page UI Design
-> El diseño de la **Landing Page** es crucial, ya que será la primera impresión de nuestro producto. Debemos crear una experiencia que capte la atención de los usuarios y los incentive a regresar.
+El diseño de la **Landing Page** es crucial, ya que será la primera impresión de nuestro producto. Debemos crear una experiencia que capte la atención de los usuarios y los incentive a regresar.
 
 ### 4.3.1. Landing Page Wireframe
 **Web Version - Home Page**  
@@ -183,6 +183,7 @@ Opiniones de usuarios.
 **Mobile Web Version - Reviews**
 
 <img src="images/Wireframe-MobileReviews.png" alt="Wireframe-MobileReviews">
+
 ### 4.3.2.Landing Page Mock-up
 ## 4.4.Web Applications UX/UI Design
 ### 4.4.1.Web Applications Wireframes
@@ -192,11 +193,12 @@ Opiniones de usuarios.
 ## 4.5.Web Applications Prototyping
 ## 4.6.Domain-Driven Software Architecture
 En esta seccion se presentaran los tres niveles del modelo C4 aplicando Domain Driven Design.
+
 ### 4.6.1.Software Architecture Context Diagram.
 El diagrama de contexto nos muestra los tipos de usuario que interactuan con el aplicativo web, y a la vez los servicios y/o con los que la plataforma interactua.  <br>
 <img src="images/structurizr-101334-Context.png" alt="ContextDiagram"> <br>
 ### 4.6.2.Software Architecture Container Diagrams. <br>
-Este diagram nos permite tener una vision enfocada al desarrollo. Se muestra la forma en la que los usuarios interactuan con la Landing Page, Web App y Mobile App. A la vez que se muestra como estas plataformas interactuan con los servicios externos vinculados. <br>
+Este diagrama nos permite tener una vision enfocada al desarrollo. Se muestra la forma en la que los usuarios interactuan con la Landing Page, Web App y Mobile App. A la vez que se muestra como estas plataformas interactuan con los servicios externos vinculados. <br>
 
 <img src="images/structurizr-101334-Contenedor.png" alt="ContainerDiagram"> <br>
 ### 4.6.3.Software Architecture Components Diagrams. <br>
@@ -219,6 +221,7 @@ En esta seccion se muestra los diagramas de comppnentes de cada uno de los bound
 <img src="images/structurizr-101334-Payment BC Component Diagram.png" alt="Scheduling"> <br>
 **User Management - Component** <br>
 <img src="images/structurizr-101334-User Management BC Component Diagram.png" alt="ServiceCatalog"> <br>
+
 ## 4.7.Software Object-Oriented Design.
 ### 4.7.1.Class Diagrams
 **General Diagram** <br>
@@ -239,10 +242,11 @@ En esta seccion se muestra los diagramas de comppnentes de cada uno de los bound
 <img src="images/ClassDiagram-Payment.png" alt="Scheduling"> <br>
 **User Management - Component** <br>
 <img src="images/ClassDiagram-UserManagement.png" alt="ServiceCatalog"> <br>
-### 4.7.2.Class Dictionary.
-####User Management BC
 
-####User
+### 4.7.2.Class Dictionary.
+#### User Management BC
+
+#### User
 
 - userId: Identificador único del usuario.
 
@@ -254,13 +258,13 @@ En esta seccion se muestra los diagramas de comppnentes de cada uno de los bound
 
 - role: Indica si el usuario es CLIENT o LENDER.
 
-####UserRole (enum)
+#### UserRole (enum)
 
 - CLIENT: Usuario que alquila bicicletas.
 
 - LENDER: Usuario que presta sus bicicletas a la plataforma.
 
-AuthService
+#### AuthService
 
 login(email, password): Autentica a un usuario y retorna un AuthToken.
 
@@ -268,9 +272,9 @@ register(userData): Registra un nuevo usuario.
 
 resetPassword(email): Inicia el proceso de restablecimiento de contraseña.
 
-Bike Inventory BC
+#### Bike Inventory BC
 
-Bike
+#### Bike
 
 bikeId: Identificador único de la bicicleta.
 
@@ -284,21 +288,21 @@ location: Coordenadas geográficas actuales.
 
 status: Estado operativo actual de la bicicleta.
 
-BikeType (enum)
+#### BikeType (enum)
 
 ROAD, MOUNTAIN, ELECTRIC, HYBRID: Tipos de bicicletas.
 
-BikeStatus (enum)
+#### BikeStatus (enum)
 
 AVAILABLE, IN_USE, RESERVED, MAINTENANCE: Estados operacionales posibles.
 
-GeoPoint
+#### GeoPoint
 
 latitude: Latitud geográfica.
 
 longitude: Longitud geográfica.
 
-InventoryService
+#### InventoryService
 
 registerBike(bikeData): Registra una bicicleta en el sistema.
 
@@ -308,9 +312,9 @@ setBikeStatus(bikeId, status): Cambia el estado operativo.
 
 getAvailableBikes(location, radius): Devuelve bicicletas disponibles cercanas.
 
-Rental Operations BC
+#### Rental Operations BC
 
-Rental
+#### Rental
 
 rentalId: Identificador único del alquiler.
 
@@ -326,11 +330,11 @@ status: Estado del alquiler.
 
 price: Precio del alquiler.
 
-RentalStatus (enum)
+#### RentalStatus (enum)
 
 ONGOING, COMPLETED, CANCELLED: Estados posibles del alquiler.
 
-RentalService
+#### RentalService
 
 startRental(bikeId, clientId): Inicia un nuevo alquiler.
 
@@ -338,9 +342,9 @@ endRental(rentalId): Finaliza el alquiler.
 
 calculatePrice(rentalId): Calcula el precio del alquiler.
 
-Lender Management BC
+#### Lender Management BC
 
-LenderProfile
+#### LenderProfile
 
 lenderId: Identificador del LENDER (igual que userId).
 
@@ -350,13 +354,13 @@ totalEarnings: Total acumulado de ingresos por alquileres.
 
 rating: Calificación promedio basada en reviews.
 
-LenderService
+#### LenderService
 
 getLenderDashboard(lenderId): Retorna métricas del lender.
 
 listBikes(lenderId): Lista las bicicletas del lender.
 
-DashboardData
+#### DashboardData
 
 earnings: Dinero ganado por el lender.
 
@@ -364,9 +368,9 @@ activeBikes: Número de bicicletas disponibles.
 
 totalRentals: Total de alquileres completados.
 
-Payment & Billing BC
+#### Payment & Billing BC
 
-Payment
+#### Payment
 
 paymentId: Identificador del pago.
 
@@ -380,11 +384,11 @@ timestamp: Fecha y hora del pago.
 
 status: Estado actual del pago.
 
-PaymentStatus (enum)
+#### PaymentStatus (enum)
 
 PENDING, COMPLETED, FAILED: Posibles estados del pago.
 
-BillingService
+#### BillingService
 
 processPayment(userId, rentalId): Procesa el pago de un alquiler.
 
@@ -392,7 +396,7 @@ refundPayment(paymentId): Procesa la devolución.
 
 generateInvoice(userId): Genera la factura del usuario.
 
-Invoice
+#### Invoice
 
 invoiceId: Identificador de la factura.
 
@@ -404,9 +408,9 @@ issuedDate: Fecha de emisión.
 
 lineItems: Detalle de cargos.
 
-Geolocation & Navigation BC
+#### Geolocation & Navigation BC
 
-GeoService
+#### GeoService
 
 getNearbyBikes(location, radius): Encuentra bicicletas cercanas.
 
@@ -414,15 +418,15 @@ trackBike(bikeId): Retorna ubicación actual de la bicicleta.
 
 getParkingZones(): Devuelve zonas de aparcamiento disponibles.
 
-GeoZone
+#### GeoZone
 
 zoneId: Identificador único de la zona.
 
 coordinates: Coordenadas que definen la zona.
 
-Review & Feedback BC
+#### Review & Feedback BC
 
-Review
+#### Review
 
 reviewId: Identificador del review.
 
@@ -436,15 +440,15 @@ comment: Comentario del usuario.
 
 submittedAt: Fecha de envío.
 
-ReviewService
+#### ReviewService
 
 submitReview(reviewerId, targetUserId, rating, comment): Crea un review.
 
 getUserReviews(userId): Obtiene reviews de un usuario.
 
-Notification BC
+#### Notification BC
 
-Notification
+#### Notification
 
 notificationId: Identificador de la notificación.
 
@@ -456,15 +460,15 @@ type: Categoría de notificación.
 
 createdAt: Fecha de creación.
 
-NotificationType (enum)
+#### NotificationType (enum)
 
 REMINDER, ALERT, PROMOTION: Tipos de notificaciones.
 
-NotificationService
+#### NotificationService
 
 sendNotification(userId, message, type): Envía una notificación.
 
 getUserNotifications(userId): Lista notificaciones del usuario.
 ## 4.8.Database Design.
 ### 4.8.1.Database Diagram.
-<img src="iamges/DBdiagram.png" alt="DBdiagram">
+<img src="images/DBdiagram.png" alt="DBdiagram">
