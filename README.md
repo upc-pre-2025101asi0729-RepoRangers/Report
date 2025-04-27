@@ -242,7 +242,7 @@ No obstante, el éxito inicial dependerá de superar la desconfianza inherente a
 
 ### Anexo B – Video de exposición
 
-- Video de exposición del proyecto: <https://www.canva.com/design/DAGlgUdRhn4/D28ySk4rs2xYvFd410JcRA/watch?utm_content=DAGlgUdRhn4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3bcee08328>
+- Video de exposición del proyecto: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219481_upc_edu_pe/EbFarmpFNARDlujplVrUeYMBQf0MNmD58sFBr6SLHeBY1A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=hqB1dK>
 
 
 ---
