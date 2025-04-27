@@ -38,7 +38,7 @@ Como empresa emergente, en RepoRangers estamos comprometidos con la sostenibilid
       </td>
 </tr>
   	<TR>
-		<td style="text-align: center" align="center"><p align="center"> Niurka Lucero Huarcaya Quispe - U20221B226<br><img src="https://cdn.discordapp.com/attachments/1363341571877109913/1363343316258652310/Niurka.jpg?ex=680b9ea8&is=680a4d28&hm=b9231274385d3ef9fd427658c60ac3e4c01ce67bfb532813dea50bf715c155be&" alt="Foto Stanley" width="45%"> </p></td> 
+		<td style="text-align: center" align="center"><p align="center"> Niurka Lucero Huarcaya Quispe - U20221B226<br><img src="https://i.ibb.co/DH73jMSf/Niurka.jpg" alt="Foto Stanley" width="45%"> </p></td> 
 		<td style="text-align: center" align="center">Mi nombre es Niurka Huarcaya y actualmente estoy llevando la carrera de Ingeniería de Software. Considero que soy una persona responsable y que puedo aportar al equipo en cualquier aspecto que se requiera.</td>
 		<td style="text-align: center" align="center">Tengo conocimientos de HTML, CSS y lenguajes de programación como C++ y Python. Espero que los conocimientos que he ido adquiriendo en ciclos anteriores sean de gran ayuda para llevar a cabo el presente trabajo.</td>
 	</TR>
