@@ -101,6 +101,8 @@ Abril 2025
 	  <p>- Karen Ramos: Durante esta entrega, demostré habilidades de comunicación oral al colaborar activamente con mi equipo en la elaboración del capítulo 4 y en la definición de los 		          wireframes y mockups para la aplicación web, tanto en su versión móvil como de escritorio. Asimismo, participé en la preparación y conducción de una entrevista dirigida al segmento de 
           Arrendatarios, lo cual implicó adaptar mi lenguaje y estilo comunicativo a un público específico para obtener información relevante de manera clara y empática. <br>
           </p>
+	      	  <p>- Rodrigo Alaya: Durante esta entrega, demostré habilidades de comunicación oral al colaborar activamente en la organización del Capítulo II de nuestro proyecto, específicamente en la elaboración del análisis competitivo, las entrevistas y los mapeos de usuario. Además, presenté oralmente los hallazgos del "User Journey Mapping" y del "Empathy Mapping" ante el equipo, adaptando mi lenguaje para que fuera claro tanto para los compañeros de perfil técnico como para aquellos enfocados en diseño y negocio. Esta experiencia me permitió comunicar conceptos de análisis de usuarios de manera efectiva según el público. <br>
+          </p>
 	</td>
           <td>
 		  <p><strong>TB1</strong></p>
@@ -116,6 +118,8 @@ Abril 2025
 	  <p>- Karen Ramos: Contribuí al desarrollo del capítulo 5 del trabajo, aplicando una redacción clara, coherente y adecuada al público académico al que está dirigido. También fui responsable 
           de redactar los contenidos de la sección “Reviews” de la Landing Page de la aplicación web, utilizando un estilo más directo y accesible, enfocado en usuarios finales. Estas tareas me 
           permitieron adaptar mi comunicación escrita a diferentes contextos y tipos de audiencia. <br>
+          </p>
+	      	  <p>- Rodrigo Alaya: Fui responsable de redactar todo el Capítulo II: Requirements Elicitation & Analysis, incluyendo el análisis de competidores, entrevistas, y el needfinding (User Personas, Task Matrix, Journey Mapping, Empathy Mapping y As-is Scenario Mapping). Adapté mi comunicación escrita para ser formal, clara y adecuada al público académico del proyecto. Además, desarrollé el contenido para la sección "Be a Partner" en la Landing Page de la aplicación web, donde utilicé un estilo más directo y persuasivo, enfocado en usuarios potenciales interesados en asociarse a la plataforma BikeShare. <br>
           </p>
 	</td>
           <td>
