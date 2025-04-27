@@ -203,7 +203,54 @@ Opiniones de usuarios.
 
 ## 4.4.Web Applications UX/UI Design
 ### 4.4.1.Web Applications Wireframes
+**Web Version - Login**  
+<img src="images/Wireframes-Login.png" alt="Login">
+<img src="images/Wireframes-Login2.png" alt="Login">
+
+**Web Version - Sing Up**  
+<img src="images/Wireframes-Singup.png" alt="SingUP">
+
+**Web Version - Home**  
+<img src="images/Wireframes-Home.png" alt="Home">
+
+**Web Version - Map**  
+<img src="images/Wireframes-Map.png" alt="Map">
+
+**Web Version - Profile**  
+<img src="images/Wireframes-Profile.png" alt="Profile">
+
+**Web Version - Home Arrendatario**  
+<img src="images/Wireframes-HomeArr.png" alt="Home">
+
+**Web Version - Addbike Arrendatario**  
+<img src="images/Wireframes-MyBike.png" alt="Addbike">
+
+**Web Version - Rentals Arrendatario**  
+<img src="images/Wireframes-Rentals.png" alt="rentals">
+
 ### 4.4.2.Web Applications Wireflow Diagrams
+
+El usuario tiene una cuenta y desea ingresar para consultar sus movimientos y resumen.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
+
+El usuario no tiene una cuenta y desea crearse una para poder emprezar a utilizar la aplicaicón.<br>
+<img src="images/Wireflow2.PNG" alt="wireflow">
+
+El usuario desea realizar ajustes y cambios en su cuenta<br>
+<img src="images/Wireflow3.PNG" alt="wireflow">
+
+El usuario desea buscar bicicletas disponibles en el area cercana y realizar un alquiler<br>
+<img src="images/Wireflow4.PNG" alt="wireflow">
+
+El usuario desea consultar su historial de alquileres<br>
+<img src="images/Wireflow5.PNG" alt="wireflow">
+
+El usuario desea agregar una nueva bicicleta<br>
+<img src="images/Wireflow6.PNG" alt="wireflow">
+
+El usuario desea revisar su hitorial de rentals<br>
+<img src="images/Wireflow7.PNG" alt="wireflow">
+
 ### 4.4.3.Web Applications Mock-ups
 ### 4.4.4.Web Applications User Flow Diagrams
 ## 4.5.Web Applications Prototyping
