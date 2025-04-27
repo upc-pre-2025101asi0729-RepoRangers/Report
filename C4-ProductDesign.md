@@ -261,7 +261,25 @@ El usuario desea revisar su hitorial de rentals<br>
 **Web Version - Sing Up**  
 <img src="images/Mockup-singup.PNG" alt="SingUP">
 
+**Web Version - Home**  
+<img src="images/Mockup-home.PNG" alt="Login">
+
+**Web Version - Map**  
+<img src="images/Mockup-map.PNG" alt="SingUP">
+
+**Web Version - Profile**  
+<img src="images/Mockup-profile.PNG" alt="SingUP">
+
 ### 4.4.4.Web Applications User Flow Diagrams
+El usuario tiene una cuenta y desea ingresar para consultar sus movimientos y resumen.<br>
+<img src="images/userflow1.png" alt="wireflow">
+
+El usuario no tiene una cuenta y desea crearse una para poder emprezar a utilizar la aplicaicón.<br>
+<img src="images/userflow2.png" alt="wireflow">
+
+El usuario desea realizar ajustes y cambios en su cuenta<br>
+<img src="images/userflow3.png" alt="wireflow">
+
 ## 4.5.Web Applications Prototyping
 ## 4.6.Domain-Driven Software Architecture
 En esta seccion se presentaran los tres niveles del modelo C4 aplicando Domain Driven Design.
