@@ -8,12 +8,11 @@ Los **Style Guidelines** son una guía que reúne las directrices para asegurar 
 **Branding** <br>
 Al momento de crear el logo de BikeShare, se optó por un modelo minimalista que refleja nuestro compromiso de brindar un servicio de transporte accesible. Se utilizaron colores suaves, lo que permite que el usuario identifique fácilmente el logo y lo mantenga reconocible. <br>
 
-<img src="images/logo-producto.png" alt="Brand Logo"> <br>
+<img src="images/bikeshare-logo.png" alt="Brand Logo"> <br>
 
 **Typography** <br>
 Para la tipografía de BikeShare, se eligió una fuente elegante y funcional que complementa la imagen general de la aplicación. La tipografía principal es **Roboto**, una fuente que ofrece excelente legibilidad en dispositivos móviles y proporciona un toque moderno y profesional al diseño. Para generar contraste en los textos importantes, se optó por **Roboto Slab**, una fuente llamativa que destaca la información clave y capta la atención del usuario. <br>
 
-<br> Tipografías utilizadas:
 <img src="images/Roboto.png" alt="Roboto">
 <img src="images/RobotoSlab.png" alt="RobotoSlab"> <br>
 
@@ -182,6 +181,26 @@ Opiniones de usuarios.
 <img src="images/Wireframe-MobileReviews.png" alt="Wireframe-MobileReviews">
 
 ### 4.3.2.Landing Page Mock-up
+**Web Version - Home Page**  
+Sección principal que presenta el servicio.
+
+<img src="images/MockUp-Home.png" alt="HomePage">
+
+**Web Version - Our System**  
+Explicación de cómo alquilar bicicletas.
+
+<img src="images/MockUo-OurSystem.png" alt="OurSystem">
+
+**Web Version - Be a Partner**  
+Información para arrendadores.
+
+<img src="images/MockUp-BePartner.png" alt="BeAPartner">
+
+**Web Version - Reviews**  
+Opiniones de usuarios.
+
+<img src="images/MockUp-Reviews.png" alt="Reviews">
+
 ## 4.4.Web Applications UX/UI Design
 ### 4.4.1.Web Applications Wireframes
 ### 4.4.2.Web Applications Wireflow Diagrams
