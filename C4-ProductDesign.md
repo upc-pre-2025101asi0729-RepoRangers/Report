@@ -299,7 +299,7 @@ En esta seccion se muestra los diagramas de comppnentes de cada uno de los bound
 <img src="images/structurizr-101334-GeoLocation.png" alt="Booking"> <br>
 **Bike Inventory - Component** <br>
 <img src="images/structurizr-101334-Bike Inventory BC Component Diagram.png" alt="Booking"> <br>
-**Bike Owner - Component** <br>
+**Lender Management - Component** <br>
 <img src="images/structurizr-101334-Bike Owner BC Component Diagram.png" alt="LocationRouting"> <br>
 **Bike Rental - Component** <br>
 <img src="images/structurizr-101334-Bike Rental BC Component Diagram.png" alt="Notification"> <br>
