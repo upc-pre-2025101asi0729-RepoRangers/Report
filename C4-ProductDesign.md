@@ -330,7 +330,7 @@ Como arrendatario, quiero buscar bicicletas disponibles según mi ubicación y h
 
 Alquiler de bicicleta	<br>
 Como arrendatario, quiero poder reservar una bicicleta por un periodo específico para utilizarla según mi necesidad.<br>
-<img src="images/Wireflow14.1.PNG" alt="wireflow">
+<img src="images/Wireflow114.1.PNG" alt="wireflow">
 
 Gestión de alquileres		<br>
 Como arrendatario, quiero ver mis alquileres actuales y pasados para gestionar el uso y control de mis reservas.<br>
@@ -338,7 +338,7 @@ Como arrendatario, quiero ver mis alquileres actuales y pasados para gestionar e
 
 ## 4.5.Web Applications Prototyping
 
-<img src="images/prototyping.PNG" alt="wireflow">
+<img src="images/prototyping.png" alt="wireflow">
 
 ## 4.6.Domain-Driven Software Architecture
 En esta seccion se presentaran los tres niveles del modelo C4 aplicando Domain Driven Design.
