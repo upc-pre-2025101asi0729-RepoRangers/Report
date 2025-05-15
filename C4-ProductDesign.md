@@ -322,11 +322,11 @@ Como arrendador, quiero visualizar un historial de alquileres de mis bicicletas 
 
 Visualización de estadísticas de uso<br>
 Como arrendador, quiero visualizar estadísticas de uso e ingresos generados por mis bicicletas para tomar mejores decisiones sobre mi oferta.<br>
-<img src="images/Wireflow13.1.PNG" alt="wireflow">
+<img src="images/Wireflow114.1.PNG" alt="wireflow">
 
 Búsqueda de bicicletas por ubicación y disponibilidad<br>
 Como arrendatario, quiero buscar bicicletas disponibles según mi ubicación y horario deseado para encontrar opciones convenientes.<br>
-<img src="images/Wireflow14.1.PNG" alt="wireflow">
+<img src="images/Wireflow114.1.PNG" alt="wireflow">
 
 Alquiler de bicicleta	<br>
 Como arrendatario, quiero poder reservar una bicicleta por un periodo específico para utilizarla según mi necesidad.<br>
