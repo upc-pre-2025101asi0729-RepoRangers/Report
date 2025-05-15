@@ -227,9 +227,6 @@ Opiniones de usuarios.
 <img src="images/Wireframes-MyBike.png" alt="Addbike">
 
 ### 4.4.2.Web Applications Wireflow Diagrams
-
-<img src="images/Wireflow1.PNG" alt="wireflow">
-
 User Goals:<br>
 Inicio de sesión<br>
 Como usuario registrado, quiero poder iniciar sesión con mis credenciales para acceder a mi cuenta y funcionalidades.<br>
@@ -294,8 +291,6 @@ Como arrendatario, quiero ver mis alquileres actuales y pasados para gestionar e
 <img src="images/Mockup-profile.PNG" alt="SingUP">
 
 ### 4.4.4.Web Applications User Flow Diagrams
-<img src="images/Wireflow1.PNG" alt="wireflow">
-
 User Goals:<br>
 Inicio de sesión<br>
 Como usuario registrado, quiero poder iniciar sesión con mis credenciales para acceder a mi cuenta y funcionalidades.<br>
