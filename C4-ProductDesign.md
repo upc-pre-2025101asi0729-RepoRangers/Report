@@ -226,31 +226,62 @@ Opiniones de usuarios.
 **Web Version - Addbike Arrendatario**  
 <img src="images/Wireframes-MyBike.png" alt="Addbike">
 
-**Web Version - Rentals Arrendatario**  
-<img src="images/Wireframes-Rentals.png" alt="rentals">
-
 ### 4.4.2.Web Applications Wireflow Diagrams
 
-El usuario tiene una cuenta y desea ingresar para consultar sus movimientos y resumen.<br>
 <img src="images/Wireflow1.PNG" alt="wireflow">
 
-El usuario no tiene una cuenta y desea crearse una para poder emprezar a utilizar la aplicaicón.<br>
-<img src="images/Wireflow2.PNG" alt="wireflow">
+User Goals:<br>
+Inicio de sesión<br>
+Como usuario registrado, quiero poder iniciar sesión con mis credenciales para acceder a mi cuenta y funcionalidades.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
 
-El usuario desea realizar ajustes y cambios en su cuenta<br>
-<img src="images/Wireflow3.PNG" alt="wireflow">
+Selección de rol<br>
+Como usuario, quiero poder elegir si quiero registrarme como arrendador o arrendatario desde la pantalla principal para que la plataforma me dirija a la pantalla de registro correspondiente.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
 
-El usuario desea buscar bicicletas disponibles en el area cercana y realizar un alquiler<br>
-<img src="images/Wireflow4.PNG" alt="wireflow">
+Edición de datos personales<br>
+Como usuario, quiero poder actualizar mi perfil y datos personales para mantener mi información actualizada.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
 
-El usuario desea consultar su historial de alquileres<br>
-<img src="images/Wireflow5.PNG" alt="wireflow">
+Cierre de sesión<br>
+Como usuario, quiero cerrar sesión de forma segura para proteger mi cuenta cuando dejo de usar la plataforma.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
 
-El usuario desea agregar una nueva bicicleta<br>
-<img src="images/Wireflow6.PNG" alt="wireflow">
+Edición de información de una bicicletaa<br>
+Como arrendador, quiero editar la información de mis bicicletas para actualizar detalles.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
 
-El usuario desea revisar su hitorial de rentals<br>
-<img src="images/Wireflow7.PNG" alt="wireflow">
+Eliminación de una bicicleta<br>
+Como arrendador, quiero eliminar bicicletas que ya no deseo alquilar para mantener mi listado limpio y actualizado.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
+
+Historial de alquileres<br>
+Como arrendador, quiero visualizar un historial de alquileres de mis bicicletas para conocer la demanda y evaluar ingresos.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
+
+Visualización de estadísticas de uso<br>
+Como arrendador, quiero visualizar estadísticas de uso e ingresos generados por mis bicicletas para tomar mejores decisiones sobre mi oferta.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
+
+Configuración de disponibilidad<br>
+Como arrendador, quiero establecer días y horas disponibles para cada bicicleta para evitar reservas en momentos no deseados.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
+
+Búsqueda de bicicletas por ubicación y disponibilidad<br>
+Como arrendatario, quiero buscar bicicletas disponibles según mi ubicación y horario deseado para encontrar opciones convenientes.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
+
+Visualización de detalles de bicicletas<br>
+Como arrendatario, quiero ver información detallada de cada bicicleta incluyendo reseñas antes de alquilarla para tomar una decisión informada.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
+
+Alquiler de bicicleta	<br>
+Como arrendatario, quiero poder reservar una bicicleta por un periodo específico para utilizarla según mi necesidad.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
+
+Gestión de alquileres		<br>
+Como arrendatario, quiero ver mis alquileres actuales y pasados para gestionar el uso y control de mis reservas.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
 
 ### 4.4.3.Web Applications Mock-ups
 
@@ -271,16 +302,65 @@ El usuario desea revisar su hitorial de rentals<br>
 <img src="images/Mockup-profile.PNG" alt="SingUP">
 
 ### 4.4.4.Web Applications User Flow Diagrams
-El usuario tiene una cuenta y desea ingresar para consultar sus movimientos y resumen.<br>
-<img src="images/userflow1.png" alt="wireflow">
+<img src="images/Wireflow1.PNG" alt="wireflow">
 
-El usuario no tiene una cuenta y desea crearse una para poder emprezar a utilizar la aplicaicón.<br>
-<img src="images/userflow2.png" alt="wireflow">
+User Goals:<br>
+Inicio de sesión<br>
+Como usuario registrado, quiero poder iniciar sesión con mis credenciales para acceder a mi cuenta y funcionalidades.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
 
-El usuario desea realizar ajustes y cambios en su cuenta<br>
-<img src="images/userflow3.png" alt="wireflow">
+Selección de rol<br>
+Como usuario, quiero poder elegir si quiero registrarme como arrendador o arrendatario desde la pantalla principal para que la plataforma me dirija a la pantalla de registro correspondiente.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
+
+Edición de datos personales<br>
+Como usuario, quiero poder actualizar mi perfil y datos personales para mantener mi información actualizada.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
+
+Cierre de sesión<br>
+Como usuario, quiero cerrar sesión de forma segura para proteger mi cuenta cuando dejo de usar la plataforma.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
+
+Edición de información de una bicicletaa<br>
+Como arrendador, quiero editar la información de mis bicicletas para actualizar detalles.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
+
+Eliminación de una bicicleta<br>
+Como arrendador, quiero eliminar bicicletas que ya no deseo alquilar para mantener mi listado limpio y actualizado.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
+
+Historial de alquileres<br>
+Como arrendador, quiero visualizar un historial de alquileres de mis bicicletas para conocer la demanda y evaluar ingresos.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
+
+Visualización de estadísticas de uso<br>
+Como arrendador, quiero visualizar estadísticas de uso e ingresos generados por mis bicicletas para tomar mejores decisiones sobre mi oferta.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
+
+Configuración de disponibilidad<br>
+Como arrendador, quiero establecer días y horas disponibles para cada bicicleta para evitar reservas en momentos no deseados.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
+
+Búsqueda de bicicletas por ubicación y disponibilidad<br>
+Como arrendatario, quiero buscar bicicletas disponibles según mi ubicación y horario deseado para encontrar opciones convenientes.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
+
+Visualización de detalles de bicicletas<br>
+Como arrendatario, quiero ver información detallada de cada bicicleta incluyendo reseñas antes de alquilarla para tomar una decisión informada.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
+
+Alquiler de bicicleta	<br>
+Como arrendatario, quiero poder reservar una bicicleta por un periodo específico para utilizarla según mi necesidad.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
+
+Gestión de alquileres		<br>
+Como arrendatario, quiero ver mis alquileres actuales y pasados para gestionar el uso y control de mis reservas.<br>
+<img src="images/Wireflow1.PNG" alt="wireflow">
 
 ## 4.5.Web Applications Prototyping
+
+
+
 ## 4.6.Domain-Driven Software Architecture
 En esta seccion se presentaran los tres niveles del modelo C4 aplicando Domain Driven Design.
 
