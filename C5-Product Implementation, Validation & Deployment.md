@@ -108,7 +108,6 @@ Crear una carpeta llamada "docs" para alojar el Landing Page. Asegurarse de que 
 #### 5.2.1.2. Sprint Backlog 1
 
 En el primer Sprint, se implementará la página LandingPage de TakeMyCar. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
-
 <img src="images/trello-sprint1.PNG" alt="Trello" width="100%">
 
 Aqui podra encontrar la evidencia de Trelo:
@@ -375,7 +374,46 @@ A continuación, se muestran las capturas de los insights del repositorio de la 
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
+Se presentan los commits realizados en el repositorio de GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
 
+- Repositorio Frontend: https://github.com/1ASI0729-2510-4313-G5-Bikeshare/Frontend
+
+<br>
+
+<table  align="left" border="1" width="100%">
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit ID</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Commited on (Date)</th>
+    </tr>
+    <tr>
+        <td rowspan=6>Web App frontend</td>
+        <td>feature/login-home</td>
+        <td>1031069</td>
+        <td>feat: add login-home</td>
+        <td>-</td>
+        <td>16/05/25</td>
+    </tr>
+    <tr>
+        <td>feature/create-account-home</td>
+        <td>70b54f0</td>
+        <td>feat: add create account home</td>
+        <td>-</td>
+        <td>16/05/25</td>
+    <tr>
+    <tr>
+        <td>feature/profile</td>
+        <td>b4c8f05</td>
+        <td>feat: add profile section</td>
+        <td>-</td>
+        <td>15/05/25</td>
+    <tr>
+</table>
+
+<br>
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
