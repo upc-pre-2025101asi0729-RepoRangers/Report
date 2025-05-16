@@ -417,6 +417,13 @@ Se presentan los commits realizados en el repositorio de GitHub, en el cual se p
         <td>-</td>
         <td>15/05/25</td>
     <tr>
+    <tr>
+        <td>feature/frontend</td>
+        <td>d77091c</td>
+        <td>feature:Initial commit BikeShare-frontend</td>
+        <td>-</td>
+        <td>16/05/25</td>
+    <tr>
 </table>
 
 <br>
@@ -436,7 +443,7 @@ Para este sprint no se implemento API alguna ya que no realizo el desarrollo de 
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-A continuación, se muestran las capturas de los insights del repositorio Fronted para evidenciar la participación de todos los miembros del grupo:
+A continuación, se muestran las capturas del despliegue del Frontend de la aplicación Bikeshare:
 
 - MockAPI: <br> <br>
 
