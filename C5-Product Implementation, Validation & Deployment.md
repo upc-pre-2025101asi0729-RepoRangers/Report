@@ -372,6 +372,12 @@ A continuación, se muestran las capturas de los insights del repositorio de la 
   </tbody>
 </table>
 
+En este sprint, se abordarán tareas clave como la implementación de validaciones, ajustes en la experiencia visual y la configuración de componentes interactivos que faciliten la navegación. A continuación, se presenta el tablero de Trello con la organización de tareas y su estado actual dentro del sprint.
+
+<img src="https://i.ibb.co/b5x0bJ1r/Captura-de-pantalla-2025-05-16-041220.png" alt="Sprint2-trello" border="0">
+
+Link del Trello: https://trello.com/b/caq6CxCA/bikeshare-sprint-1
+
 #### 5.2.2.4. Development Evidence for Sprint Review
 
 Se presentan los commits realizados en el repositorio de GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
