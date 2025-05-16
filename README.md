@@ -133,7 +133,7 @@ Abril 2025
           </p>
 	      	  <p>- Rodrigo Alaya:  <br>
           </p>
-	      <p> - Jose Martinez: </p>
+	      <p> - Jose Martinez: Para el desarrollo de esta entrega, desarrolle mis habilidades de trabajo en equipo y comucinacion con mis compañeros de proyecto. Asimismo reforce mis habilidades obtenidas hasta ahora gracias al desarrollo del curso.</p>
 	      <p>- Niurka Huarcaya:  <br>
           </p>
         <p>- Maria Fernanda Mostajo: Para esta entrega, cumplí con comunicarme oralmente de forma efectiva al colaborar en la organización del capitulo V de nuestro proyecto, específicamete en la elaboración del team collaboration insights during sprint. Asimismo participé en realizar la primera versión de Frontend Web Applications.<br>
@@ -167,7 +167,7 @@ Abril 2025
           </p>
 	      	  <p>- Rodrigo Alaya:  <br>
           </p>
-	      <p> - Jose Martinez: </p>
+	      <p> - Jose Martinez: Para esta entrega me encargue de desarrollar los aspectos principales del Sprint 2 y el Deployment Evidence. Me enfoce en revisar que el mergue de las diferentes ramas se hay hecho de forma correcta para el posterior deployment </p>
 	      <p>- Niurka Huarcaya:  <br>
           </p>
         <p>- Maria Fernanda Mostajo: Para esta entrega, me encargué de redactar el capitulo V, en la sección de team collaboration insights during sprint. Asimismo, desarrolle el contenido del Frontend Web Applications, en la sección de login, sign up y home.<br>
