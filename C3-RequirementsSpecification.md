@@ -106,3 +106,9 @@ A continuación, se mostrará la herramienta Product Backlog, lista de trabajo o
 |26|US24|Calificación de bicicleta|Como arrendatario, quiero calificar la bicicleta y dejar un comentario tras su uso para ayudar a otros usuarios a elegir mejor|3|
 |27|US17|Calificaciones y comentarios de arrendatarios|Como arrendador, quiero ver calificaciones y comentarios de arrendatarios sobre mis bicicletas para mejorar el servicio que ofrezco|3|
 |28|US27|Reporte de estado de bicicleta|Como usuario, quiero poder reportar bicicletas en mal estado o problemas con un alquiler para mejorar la calidad del servicio|3|
+
+Para la gestión de tareas y organización del backlog, se utiliza Trello como herramienta principal, asegurando que todas las tareas estén claramente organizadas y asignadas.
+
+<img src="https://i.ibb.co/3HbMpWB/Captura-de-pantalla-2025-05-16-022023.png" alt="Backlog-trello" border="0">
+
+Link del Trello: https://trello.com/b/caq6CxCA/bikeshare-sprint-1
