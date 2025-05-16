@@ -43,7 +43,7 @@ Como empresa emergente, en RepoRangers estamos comprometidos con la sostenibilid
 		<td style="text-align: center" align="center">Tengo conocimientos de HTML, CSS y lenguajes de programación como C++ y Python. Espero que los conocimientos que he ido adquiriendo en ciclos anteriores sean de gran ayuda para llevar a cabo el presente trabajo.</td>
 	</TR>
 	<TR>
-		<td style="text-align: center" align="center"><p align="center"> José Luis Martinez Valdivia - U20  <img src="images/fotoCristian.jpeg" alt="Foto Edson" width="40%"> </p></td> 
+		<td style="text-align: center" align="center"><p align="center"> José Luis Martinez Valdivia - U20  <img src="images/foto_Jose.jpg" alt="Foto Edson" width="40%"> </p></td> 
 		<td style="text-align: center" align="center"></td>
 		<td style="text-align: center" align="center"> </td>
 	</TR>
