@@ -135,7 +135,7 @@ A continuación se presentan informacion de los commits de la Landing page de Bi
 |Landing Page - ourSystem   |   c62b615…3c7fbde      |  feature(OurSystem): completed landing page-OurSystem - added HTML  |    |25/04/2025|
 |Landing Page - home   |   c62b615…7769d76     |  feat: add section home structure and styling    |           |   24/04/2025 |
 |Landing Page - BeAPartner   |   c62b615…3f0f246     |  update landing page beapartner   |           |   24/04/2025 |
-| Landing Page - Reviews |  c62b615…6a35cc4         |  feature(reviews): completed Reviews on an 80%  |    |           |
+| Landing Page - Reviews |  c62b615…6a35cc4         |  feature(reviews): completed Reviews on an 80%  |    |      18/04/2025     |
 
             
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
@@ -396,7 +396,7 @@ Se presentan los commits realizados en el repositorio de GitHub, en el cual se p
         <th>Commited on (Date)</th>
     </tr>
     <tr>
-        <td rowspan=6>Web App frontend</td>
+        <td rowspan=6>Frontend</td>
         <td>feature/login-home</td>
         <td>1031069</td>
         <td>feat: add login-home</td>
