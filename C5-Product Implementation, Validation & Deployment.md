@@ -134,7 +134,8 @@ En el transcurso del primer sprint, no se realizaron pruebas en la aplicación y
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
-A continuación se presentan capturas del landing page implementado parcialmente en código, con el uso de HTML, CSS y JavaScript
+A continuación se presentan capturas del landing page implementado parcialmente en código, con el uso de HTML, CSS y JavaScript.
+Link: (https://shorturl.at/ezDLe)
 
 - Home:<br>
 
