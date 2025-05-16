@@ -34,12 +34,12 @@ Para organizar nuestro proyecto y sus modificaciones, hemos seguido lo propuesto
 
 **Liks del repositorio de GitHub**:
 
-- Link de la organización: https://github.com/upc-pre-2025101asi0729-G05-RepoRangers
-- Link de la landing page: https://github.com/upc-pre-2025101asi0729-G05-RepoRangers/LandingPage
-- Link del informe: https://github.com/upc-pre-2025101asi0729-G05-RepoRangers/Report
-- Link del front end: https://github.com/upc-pre-2025101asi0729-G05-RepoRangers/Frontend
-- Link del back end: https://github.com/upc-pre-2025101asi0729-G05-RepoRangers/Backend
-
+- Link de la organización: https://github.com/1ASI0729-2510-4313-G5-Bikeshare
+- Link de la landing page: https://github.com/1ASI0729-2510-4313-G5-Bikeshare/LandingPage
+- Link del informe: https://github.com/1ASI0729-2510-4313-G5-Bikeshare/Report.git
+- Link del front end: https://github.com/1ASI0729-2510-4313-G5-Bikeshare/Frontend.git
+- Link del back end: https://github.com/1ASI0729-2510-4313-G5-Bikeshare/Backend.git
+  
 Estrucutra de las ramas:
 
 - **Main Branch:** Esta rama es la principal de la aplicación. Donde se encontrarán las versiones más estables del desarrollo. Solo se admiten cambios que hayan sido probados en otras ramas.
