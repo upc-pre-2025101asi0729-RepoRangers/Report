@@ -240,19 +240,22 @@ A continuación, se muestran las capturas de los insights del repositorio de la 
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
 Durante este sprint se completaron importantes avances en la ejecución del Front-End de BikeShare utilizando Angular CLI. Se implementaron vistas clave como el registro e inicio de sesión tanto para clientes como arrendadores, la creación la vista principal del cliente, su panel de servicios y el perfil del usuario cliente.
 
 Estas funcionalidades consolidan la base operativa de la plataforma, permitiendo una experiencia inicial completa para ambas partes del sistema: usuarios que buscan servicios de reparación y técnicos que los ofrecen.
 
 Link del proyecto: https://github.com/1ASI0729-2510-4313-G5-Bikeshare/Frontend.git
 
-#### 5.2.2.5. Execution Evidence for Sprint Review
-
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+Para este sprint no se implemento API alguna ya que no realizo el desarrollo de un backend. Sin embargo, se realizo una FakeApi.
 
-#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 A continuación, se muestran las capturas de los insights del repositorio Fronted para evidenciar la participación de todos los miembros del grupo:
 
@@ -273,15 +276,9 @@ A continuación, se muestran las capturas de los insights del repositorio Fronte
 <br>
 
 
+#### 5.2.2.8. Team Collaboration Insights during Sprint
 
-# Conclusiones
-### Conclusiones y recomendaciones
-### Video About-the-Team
+Durante este sprint, la colaboración del equipo se mantuvo constante y bien organizada, facilitando el cumplimiento exitoso de los objetivos establecidos.En la reunión, se asignaron responsabilidades específicas a cada integrante, permitiendo una distribución eficiente del trabajo y un entendimiento claro de las tareas a ejecutar. A lo largo de este sprint se lograron avances significativos en el desarrollo del Front-End de RepairLink, empleando Angular CLI. Se llevaron a cabo implementaciones clave, entre las que destacan las interfaces para el registro e inicio de sesión de clientes y arrendadores, la configuración del perfil profesional usuario, así como la vista principal del cliente, su panel de servicios y su perfil personal. El equipo mantuvo una comunicación activa y efectiva durante todo el sprint, utilizando WhatsApp como canal principal para resolver dudas rápidas y coordinar avances. Esta estrategia permitió que los integrantes estuvieran alineados en todo momento, promoviendo un flujo de trabajo continuo y sin interrupciones significativas, nos basamos en diseñar e implementar el FrontEnd con el objetivo de concretar nuestra propuesta de valor.
 
----
-# Bibliografía
-
----
-# Anexos
 
 
