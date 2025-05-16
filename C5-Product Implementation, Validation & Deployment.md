@@ -100,8 +100,8 @@ Crear una carpeta llamada "docs" para alojar el Landing Page. Asegurarse de que 
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Todos los miembros de RepoRangers</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal &amp; User Stories</strong></td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Goal</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"> El objetivo del Sprint 1 es crear la organización RepoRangers en GitHub y establecer el repositorio principal para el proyecto, asegurando una gestión adecuada del código y facilitando la colaboración del equipo desde el inicio. Además, se implementará la landing page, con un diseño responsivo y funcional que permitirá presentar el proyecto y ofrecer una navegación clara para los usuarios. Al finalizar este sprint, se contará con la organización y repositorio configurados, la landing page desplegada en un entorno de prueba, y la documentación inicial que guiará el acceso y uso del repositorio, sentando así las bases para el desarrollo y la experiencia de usuario del proyecto.</td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Velocity</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>5</strong></td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>8</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Velocity</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>14</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>14</strong></td></tr>
 </tbody>
 </table>
 
@@ -199,7 +199,7 @@ A continuación, se muestran las capturas de los insights del repositorio de la 
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">jJose Martinez</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Todos los miembros de BikeShare</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal &amp; User Stories</strong></td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 2 Goal</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"> Se delego tareas en el desarrollo del front end del aplicativo</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 2 Goal</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"> Nuestro enfoque en este sprint se centra en la delegación de tareas para el desarrollo del front-end del aplicativo, con el objetivo de mejorar la eficiencia y optimizar la implementación dentro del equipo de desarrollo. Creemos que esta estrategia permitirá una distribución más clara de responsabilidades, facilitando la integración de los componentes y asegurando que cada parte cumpla con los requisitos de diseño y funcionalidad establecidos. La confirmación de este impacto se dará cuando los elementos del front-end se implementen correctamente y su rendimiento cumpla con las expectativas del producto.</td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 2 Velocity</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>32</strong></td></tr>
 <tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>51</strong></td></tr>
 </tbody>
@@ -218,25 +218,160 @@ A continuación, se muestran las capturas de los insights del repositorio de la 
 
 #### 5.2.2.3. Sprint Backlog 2
 
-| Story ID | Título                        | Descripción breve                                              | Estimación (Story Points) | Estado      | Responsable                         |
-|----------|-------------------------------|-----------------------------------------------------------------|----------------------------|-------------|-------------------------------------|
-| US06   | Selección de rol	          | Como usuario, quiero poder elegir si quiero registrarme como arrendador o arrendatario              | 2 | En proceso  |    Maria Fernanda Mostajo Orosco     |
-| US07  | Registro de cuenta	        | Como usuario, quiero registrarme con mi correo electrónico y contraseña  | 5                         | Completado  | Rodrigo Alaya Cabrera	            |
-| US08	  | Registro con cuenta de google	            | Mostrar testimonios y calificaciones de clientes.              | 8                          | Completado  | Stanley Gutiérrez                   |
-| US09	|Inicio de sesión	| Como usuario registrado, quiero poder iniciar sesión con mis credenciales | 5 | Completado |  Niurka Lucero Huarcaya Quispe	|
-| US10	| Edición de datos personales |	Como usuario, quiero poder actualizar mi perfil y datos personales |3|  En proceso | José Luis Martinez Valdivia	|
-| US11 |	Cierre de sesión | Como usuario, quiero cerrar sesión de forma segura | 2 | En proceso | Maria Fernanda Mostajo Orosco	| 
-| US12 |  Registro de una bicicleta |	Como arrendador, quiero registrar una nueva bicicleta | 5 | En proceso | Karen Stephanie Ramos Carpio	| 
-| US13 | Edición de información de una bicicleta |	Como arrendador, quiero editar la información de mis bicicletas | 3 | En proceso |Rodrigo Alaya Cabrera	|
-| US14  | 	Eliminación de una bicicleta |	Como arrendador, quiero eliminar bicicletas que ya no deseo alquilar | 2 | En proceso | Niurka Lucero Huarcaya Quispe	|
-| US15 |	Historial de alquileres |	Como arrendador, quiero visualizar un historial de alquileres | 3 | En proceso | José Luis Martinez Valdivia	|
-| US16 |	Visualización de estadísticas de uso	| Como arrendador, quiero visualizar estadísticas de uso | 5 | En proceso | Maria Fernanda Mostajo Orosco	|
-| US17 |	Calificaciones y comentarios de arrendatarios	| Como arrendador, quiero ver calificaciones y comentarios | 3 |En proceso | Karen Stephanie Ramos Carpio	|
-| US18 |	Configuración de disponibilidad |	Como arrendador, quiero establecer días y horas disponibles | 5 |En proceso | Rodrigo Alaya Cabrera	| 
-
-
-
-
+<table border="1">
+  <thead>
+    <tr>
+      <th>Sprint #</th>
+      <th colspan="7">Sprint 2</th>
+    </tr>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">Work-Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-do / In-Process / To-Review / Done)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US07</td>
+      <td>Registro de usuario</td>
+      <td>T01</td>
+      <td>Selección de rol</td>
+      <td>Diseñar y desarrollar la pantalla de selección de rol en el registro, permitiendo la elección entre arrendador y arrendatario con navegación adecuada</td>
+      <td>4</td>
+      <td>Maria Fernanda Mostajo Orosco</td>
+      <td>In-Process</td>
+    </tr>
+    <tr>
+      <td>US07</td>
+      <td>Registro de usuario</td>
+      <td>T02</td>
+      <td>Registro de cuenta</td>
+      <td>Implementar la interfaz de registro de cuenta, permitiendo al usuario ingresar su correo y contraseña, con validaciones básicas en el frontend</td>
+      <td>5</td>
+      <td>Rodrigo Alaya Cabrera</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US08</td>
+      <td>Registro con cuenta de google</td>
+      <td>T03</td>
+      <td>Implementación de registro con cuenta de Google</td>
+      <td>Desarrollar la funcionalidad en el frontend para permitir a los usuarios registrarse utilizando su cuenta de Google</td>
+      <td>8</td>
+      <td>Rodrigo Alaya Cabrera</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US09</td>
+      <td>Inicio de sesión</td>
+      <td>T04</td>
+      <td>Implementación de inicio de sesión</td>
+      <td>Desarrollar la interfaz para el inicio de sesión, permitiendo a los usuarios acceder con su correo y contraseña</td>
+      <td>6</td>
+      <td>José Luis Martinez Valdivia</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US10</td>
+      <td>Edición de datos personales</td>
+      <td>T05</td>
+      <td>Implementación de edición de datos personales</td>
+      <td>Desarrollar la interfaz que permita a los usuarios actualizar su información personal con validaciones en el frontend</td>
+      <td>5</td>
+      <td>Niurka Lucero Huarcaya Quispe</td>
+      <td>In-Process</td>
+    </tr>
+    <tr>
+      <td>US11</td>
+      <td>Cierre de sesión</td>
+      <td>T06</td>
+      <td>Implementación de cierre de sesión</td>
+      <td>Desarrollar la funcionalidad en el frontend que permita a los usuarios cerrar sesión de manera segura</td>
+      <td>4</td>
+      <td>Maria Fernanda Mostajo Orosco</td>
+      <td>In-Process</td>
+    </tr>
+    <tr>
+      <td>US12</td>
+      <td>Registro de una bicicleta</td>
+      <td>T07</td>
+      <td>Implementación de registro de bicicleta</td>
+      <td>Desarrollar la interfaz que permita a los usuarios registrar su bicicleta, ingresando los datos relevantes </td>
+      <td>6</td>
+      <td>Karen Stephanie Ramos Carpio</td>
+      <td>In-Process</td>
+    </tr>
+     <tr>
+      <td>US13</td>
+      <td>Edición de información de una bicicleta</td>
+      <td>T08</td>
+      <td>Implementación de edición de información de bicicleta</td>
+      <td>Desarrollar la interfaz que permita a los usuarios actualizar los detalles de su bicicleta</td>
+      <td>4</td>
+      <td>Rodrigo Alaya Cabrera</td>
+      <td>In-Process</td>
+    </tr>
+     <tr>
+      <td>US14</td>
+      <td>Eliminación de una bicicleta</td>
+      <td>T09</td>
+      <td>Implementación de eliminación de bicicleta</td>
+      <td>Desarrollar la interfaz que permita a los usuarios eliminar el registro de una bicicleta, asegurando confirmación previa</td>
+      <td>6</td>
+      <td>Niurka Lucero Huarcaya Quispe</td>
+      <td>In-Process</td>
+    </tr>
+    <tr>
+      <td>US15</td>
+      <td>Historial de alquileres</td>
+      <td>T10</td>
+      <td>Implementación del historial de alquileres</td>
+      <td>Desarrollar la interfaz que muestre el historial de alquileres del usuario, permitiendo visualizar los datos</td>
+      <td>6</td>
+      <td>José Luis Martinez Valdivia</td>
+      <td>In-Process</td>
+    </tr>
+    <tr>
+      <td>US16</td>
+      <td>Visualización de estadísticas de uso</td>
+      <td>T11</td>
+      <td>Implementación de visualización de estadísticas de uso</td>
+      <td>Desarrollar la interfaz que permita a los usuarios visualizar estadísticas de uso</td>
+      <td>6</td>
+      <td>Maria Fernanda Mostajo Orosco</td>
+      <td>In-Process</td>
+    </tr>
+    <tr>
+      <td>US17</td>
+      <td>Calificaciones y comentarios de arrendatarios</td>
+      <td>T12</td>
+      <td>Implementación de calificaciones y comentarios de arrendatarios</td>
+      <td>Desarrollar la interfaz que permita a los usuarios calificar y dejar comentarios sobre sus arrendadores</td>
+      <td>7</td>
+      <td>Karen Stephanie Ramos Carpio</td>
+      <td>In-Process</td>
+    </tr>
+    <tr>
+      <td>US18</td>
+      <td>Configuración de disponibilidad</td>
+      <td>T13</td>
+      <td>Implementación de configuración de disponibilidad</td>
+      <td>Desarrollar la interfaz que permita a los arrendadores establecer los días y horarios en los que su bicicleta estará disponible para alquiler</td>
+      <td>7</td>
+      <td>Rodrigo Alaya Cabrera</td>
+      <td>In-Process</td>
+    </tr>
+  </tbody>
+</table>
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
