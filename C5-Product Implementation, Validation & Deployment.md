@@ -240,6 +240,12 @@ A continuación, se muestran las capturas de los insights del repositorio de la 
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
+Durante este sprint se completaron importantes avances en la ejecución del Front-End de BikeShare utilizando Angular CLI. Se implementaron vistas clave como el registro e inicio de sesión tanto para clientes como arrendadores, la creación la vista principal del cliente, su panel de servicios y el perfil del usuario cliente.
+
+Estas funcionalidades consolidan la base operativa de la plataforma, permitiendo una experiencia inicial completa para ambas partes del sistema: usuarios que buscan servicios de reparación y técnicos que los ofrecen.
+
+Link del proyecto: https://github.com/1ASI0729-2510-4313-G5-Bikeshare/Frontend.git
+
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
@@ -249,6 +255,22 @@ A continuación, se muestran las capturas de los insights del repositorio de la 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
 A continuación, se muestran las capturas de los insights del repositorio Fronted para evidenciar la participación de todos los miembros del grupo:
+
+- MockAPI: <br> <br>
+
+![MockAPI](images/FakeApi.png)
+
+<br>
+
+- Netlify:  <br>
+<br>
+![Netlify](images/MockAPI.png)
+<br>
+
+- Video Implementacion: <br> <br>
+
+![video](images/video.png)
+<br>
 
 
 
