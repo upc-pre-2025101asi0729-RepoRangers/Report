@@ -129,7 +129,7 @@ Abril 2025
        <p>- Maria Fernanda Mostajo: Para esta entrega, cumplí con comunicarme oralmente de forma eficiente al cumplir con lo acordado en el equipo, específicamente el capitulo I, y apoyar en el desarrollo de la landing page.  <br>
           </p>
           <p><strong>TP1</strong></p>
-	  <p>- Karen Ramos: <br>
+	  <p>- Karen Ramos: Durante el desarrollo del Sprint 2, contribuí en la mejora y corrección del código del frontend en Angular, asegurando una comunicación efectiva con diferentes rangos de audiencia mediante la presentación clara y precisa de la información. Esto permitió fortalecer competencias clave como la capacidad para comunicar ideas técnicas de forma adecuada, adaptar el mensaje según el público y colaborar eficientemente en equipos multidisciplinarios, lo cual está alineado con los student outcomes relacionados a la comunicación oral efectiva y trabajo en equipo.  <br>
           </p>
 	      	  <p>- Rodrigo Alaya:  <br>
           </p>
@@ -163,7 +163,7 @@ Abril 2025
 	      <p>-Niurka Huarcaya: Me encargué de redactar los escenarios To-Be, las User Stories, el Impact Mapping y el Product Backlog de forma clara, concisa y estructurada. Adapté la redacción para que tanto usuarios de negocio como técnicos pudieran comprender fácilmente los objetivos, impactos y funcionalidades, utilizando un lenguaje preciso, formatos visuales adecuados y niveles de detalle apropiados para cada audiencia. <br>
           </p> 
       <p><strong>TP1</strong></p>
-	  <p>- Karen Ramos: <br>
+	  <p>- Karen Ramos: Durante el proyecto, se evidenció la habilidad para comunicar por escrito con efectividad, adaptando los documentos técnicos y reportes según el perfil de la audiencia, desde usuarios no técnicos hasta miembros del equipo de desarrollo. Se mantuvo un lenguaje claro y preciso, facilitando la comprensión y el seguimiento de las actividades. Además, se emplearon formatos estandarizados y elementos visuales para apoyar la presentación de la información, asegurando así que el mensaje fuera accesible y coherente para todos los involucrados. <br> <br>
           </p>
 	      	  <p>- Rodrigo Alaya:  <br>
           </p>
