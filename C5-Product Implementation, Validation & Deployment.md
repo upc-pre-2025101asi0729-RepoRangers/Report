@@ -189,18 +189,54 @@ A continuación, se muestran las capturas de los insights del repositorio de la 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2
 
+<table style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint #</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint 2</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Planning Backlog</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2025-04-31</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">21:00</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Google Meet</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">jJose Martinez</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Todos los miembros de BikeShare</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal &amp; User Stories</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 2 Goal</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"> Se delego tareas en el desarrollo del front end del aplicativo</td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 2 Velocity</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>32</strong></td></tr>
+<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>51</strong></td></tr>
+</tbody>
+</table>
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
-|Team Member | GitHub Username |  Delegating Responsibilities <br> Leader (L) / Collaborator (C) | Merging Branches <br>Leader (L) /Collaborator (C)| Correcting Mistakes <br> Leader (L) /Collaborator (C)|
+ |Team Member | GitHub Username |  Delegating Responsibilities <br> Leader (L) / Collaborator (C) | Merging Branches <br>Leader (L) /Collaborator (C)| Correcting Mistakes <br> Leader (L) /Collaborator (C)|
 |-------------|--------------|------------|----------|----------|
-| Rodrigo Alaya Cabrera | ALAYA1803  |    L   |    L     | C  |
-| Niurka Lucero Huarcaya Quispe	 | NLH18 |    C   |     C    | C  |
-| José Luis Martinez Valdivia | hmongus |  C     |   C      |  C  |
+| Jose Luis Martinez Validiva | hmongus  |    L   |    C     | L  |
+| Niurka Lucero Huarcaya Quispe		 | NLH18  |    C   |     C    | C  |
+| Rodrigo Alaya Cabrera		 | ALAYA1803  |  C     |   L      |  C  |
 | Maria Fernanda Mostajo Orosco	 | Mafer-m30  |    C   |    C     |   C   |
-| Karen Stephanie Ramos Carpio	 | KarenRamos2  |   C    |    C     |   L   |
+| Karen Stephanie Ramos Carpio | KarenRamos2  |   C    |    C     |   C   |
+
 
 #### 5.2.2.3. Sprint Backlog 2
+
+| Story ID | Título                        | Descripción breve                                              | Estimación (Story Points) | Estado      | Responsable                         |
+|----------|-------------------------------|-----------------------------------------------------------------|----------------------------|-------------|-------------------------------------|
+| US06   | Selección de rol	          | Como usuario, quiero poder elegir si quiero registrarme como arrendador o arrendatario              | 2 | En proceso  |    Maria Fernanda Mostajo Orosco     |
+| US07  | Registro de cuenta	        | Como usuario, quiero registrarme con mi correo electrónico y contraseña  | 5                         | Completado  | Rodrigo Alaya Cabrera	            |
+| US08	  | Registro con cuenta de google	            | Mostrar testimonios y calificaciones de clientes.              | 8                          | Completado  | Stanley Gutiérrez                   |
+| US09	|Inicio de sesión	| Como usuario registrado, quiero poder iniciar sesión con mis credenciales | 5 | Completado |  Niurka Lucero Huarcaya Quispe	|
+| US10	| Edición de datos personales |	Como usuario, quiero poder actualizar mi perfil y datos personales |3|  En proceso | José Luis Martinez Valdivia	|
+| US11 |	Cierre de sesión | Como usuario, quiero cerrar sesión de forma segura | 2 | En proceso | Maria Fernanda Mostajo Orosco	| 
+| US12 |  Registro de una bicicleta |	Como arrendador, quiero registrar una nueva bicicleta | 5 | En proceso | Karen Stephanie Ramos Carpio	| 
+| US13 | Edición de información de una bicicleta |	Como arrendador, quiero editar la información de mis bicicletas | 3 | En proceso |Rodrigo Alaya Cabrera	|
+| US14  | 	Eliminación de una bicicleta |	Como arrendador, quiero eliminar bicicletas que ya no deseo alquilar | 2 | En proceso | Niurka Lucero Huarcaya Quispe	|
+| US15 |	Historial de alquileres |	Como arrendador, quiero visualizar un historial de alquileres | 3 | En proceso | José Luis Martinez Valdivia	|
+| US16 |	Visualización de estadísticas de uso	| Como arrendador, quiero visualizar estadísticas de uso | 5 | En proceso | Maria Fernanda Mostajo Orosco	|
+| US17 |	Calificaciones y comentarios de arrendatarios	| Como arrendador, quiero ver calificaciones y comentarios | 3 |En proceso | Karen Stephanie Ramos Carpio	|
+| US18 |	Configuración de disponibilidad |	Como arrendador, quiero establecer días y horas disponibles | 5 |En proceso | Rodrigo Alaya Cabrera	| 
+
+
+
+
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
@@ -225,4 +261,5 @@ A continuación, se muestran las capturas de los insights del repositorio Fronte
 
 ---
 # Anexos
+
 
