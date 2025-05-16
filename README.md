@@ -30,7 +30,7 @@ Producto: BikeShare
 |      Rodrigo Alaya Cabrera      | U202219481 |
 |      Niurka Lucero Huarcaya Quispe       | U20221B226 |
 |      José Luis Martinez Valdivia         | U202213989 |
-|      Maria Fernanda Mostajo Orosco       | U20...... |
+|      Maria Fernanda Mostajo Orosco       | U202312874 |
 |      Karen Stephanie Ramos Carpio          | U20201e493 |
 
 Abril 2025
@@ -73,6 +73,27 @@ Abril 2025
         </ul>
       </td>
   </tr>
+  <tr>
+      <td><strong>TP1</strong></td>
+      <td>Mayo</td>
+      <td>
+        <ul>
+            <li>Rodrigo Alaya Cabrera </li> 
+            <li>Niurka Lucero Huarcaya Quispe </li> 
+            <li>José Luis Martinez Valdivia</li> 
+            <li>Maria Fernanda Mostajo Orosco</li> 
+            <li>Karen Stephanie Ramos Carpio</li> 
+        </ul>
+      </td>
+      <td>
+        Se han incluído los siguientes capítulos:
+        <ul>
+        <li>Primera versión del Frontend web applications</li>
+          <li>Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.2.8. Team Collaboration Insights during Sprint</li>
+          <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+        </ul>
+      </td>
+  </tr>
   </tbody>
 </table>
 
@@ -105,11 +126,25 @@ Abril 2025
 	      <p> - Jose Martinez: Adapte el lenguaje y el estilo de presentación para ser comprensible tanto para compañeros técnicos como para aquellos enfocados en diseño y negocios, asegurando claridad en contextos colaborativos e investigativos.</p>
 	      <p>- Niurka Huarcaya: Para esta entrega, cumplí con comunicar oralmente de forma efectiva porque adapté la información para diferentes audiencias usando herramientas visuales como escenarios To-Be, User Stories, Impact Mapping y Product Backlog. Expliqué conceptos técnicos de forma sencilla y estructurada, conectando los objetivos de negocio con acciones concretas, lo que facilitó que tanto públicos técnicos como no técnicos entendieran el valor, el proceso y el enfoque del proyecto. <br>
           </p>
+       <p>- Maria Fernanda Mostajo: Para esta entrega, cumplí con comunicarme oralmente de forma eficiente al cumplir con lo acordado en el equipo, específicamente el capitulo I, y apoyar en el desarrollo de la landing page.  <br>
+          </p>
+          <p><strong>TP1</strong></p>
+	  <p>- Karen Ramos: <br>
+          </p>
+	      	  <p>- Rodrigo Alaya:  <br>
+          </p>
+	      <p> - Jose Martinez: </p>
+	      <p>- Niurka Huarcaya:  <br>
+          </p>
+        <p>- Maria Fernanda Mostajo: Para esta entrega, cumplí con comunicarme oralmente de forma efectiva al colaborar en la organización del capitulo V de nuestro proyecto, específicamete en la elaboración del team collaboration insights during sprint. Asimismo participé en realizar la primera versión de Frontend Web Applications.<br>
+          </p>
 	</td>
           <td>
 		  <p><strong>TB1</strong></p>
 		  <p>Nuestra participación en reuniones de equipo y en la entrevista nos permitió fortalecer mi capacidad para expresar ideas de manera clara, empática y adaptada a distintos 
                   interlocutores, logrando una comunicación oral efectiva en contextos tanto colaborativos como investigativos.</p>
+      <p><strong>TP1</strong></p>
+		  <p>La participación en reuniones de equipo y en la entrevista contribuyó al desarrollo de mi habilidad para comunicar ideas con claridad, empatía y adecuación al tipo de interlocutor, lo que facilitó una comunicación oral eficaz en entornos colaborativos e investigativos.</p>
 	 </td>
       <br>
      </tr>
@@ -126,15 +161,27 @@ Abril 2025
 	      <p> - Jose Martinez: Participe activamente en reuniones y tareas grupales, contribuyendo al desarrollo de wireframes, mockups y análisis de usuarios. Utilize hallazgos de investigación para fundamentar decisiones del proyecto, garantizando que las soluciones respondieran a necesidades reales. <br>
 		      </p>
 	      <p>-Niurka Huarcaya: Me encargué de redactar los escenarios To-Be, las User Stories, el Impact Mapping y el Product Backlog de forma clara, concisa y estructurada. Adapté la redacción para que tanto usuarios de negocio como técnicos pudieran comprender fácilmente los objetivos, impactos y funcionalidades, utilizando un lenguaje preciso, formatos visuales adecuados y niveles de detalle apropiados para cada audiencia. <br>
+          </p> 
+      <p><strong>TP1</strong></p>
+	  <p>- Karen Ramos: <br>
+          </p>
+	      	  <p>- Rodrigo Alaya:  <br>
+          </p>
+	      <p> - Jose Martinez: </p>
+	      <p>- Niurka Huarcaya:  <br>
+          </p>
+        <p>- Maria Fernanda Mostajo: Para esta entrega, me encargué de redactar el capitulo V, en la sección de team collaboration insights during sprint. Asimismo, desarrolle el contenido del Frontend Web Applications, en la sección de login, sign up y home.<br>
           </p>
 	</td>
         <td>
 		  <p><strong>TB1</strong></p>
 		  <p>La realizacion de la TB1 nos permitio conocer mejor las necesidades de mercado y como llegara nuestro publico objetivo.</p>
-	 </td>
-         
+      <p><strong>TP1</strong></p>
+		  <p>La realización del TP1 nos permitió desarrollar el capítulo 5, ejecutar el Sprint 2 y construir la primera versión del frontend de la aplicación web, lo que fortaleció nuestra comprensión del mercado y de las estrategias necesarias para alcanzar de forma efectiva a nuestro público objetivo.</p>
+	 </td>     
       <br>
      </tr>
+     
   </tbody>
 </table>
 
