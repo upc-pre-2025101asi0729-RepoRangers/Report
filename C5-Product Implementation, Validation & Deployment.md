@@ -140,7 +140,9 @@ Se puede acceder a la página de inicio a través del siguiente enlace: https://
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-A continuación se presentan capturas de los insights del repositorio del landing page en Github
+A continuación, se muestran las capturas de los insights del repositorio de la Landing Page para evidenciar la participación de todos los miembros del grupo:
+
+<img src="images/insights.png" alt="Trello" width="100%">
 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2
@@ -150,8 +152,8 @@ A continuación se presentan capturas de los insights del repositorio del landin
 #### 5.2.2.5. Execution Evidence for Sprint Review
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
-#### 5.2.2.8. Sprint Planning 2
-
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+A continuación, se muestran las capturas de los insights del repositorio Fronted para evidenciar la participación de todos los miembros del grupo:
 
 
 
