@@ -118,6 +118,16 @@ https://trello.com/b/caq6CxCA/bikeshare-sprint-1
 
 A continuación se presentan informacion de los commits de la Landing page de BikeShare, con el uso de HTML, CSS y JavaScript
 
+|Repository Branch |  Commit Id  |  Commit Message | Commit Message Body | Commited on (Date)|
+|-----------------|--------------|-----------------|---------------------|-------------------|
+|Landing Page - develop   |   4c76760…f3dcfd9     |  chores(landingpage): added some translation words    |           |   26/04/2025 |
+|Landing Page - develop   |    c62b615…4c76760     |  chore(landingpage): add completed landing page       |           |   26/04/2025 |
+|Landing Page - ourSystem   |   c62b615…3c7fbde      |  feature(OurSystem): completed landing page-OurSystem - added HTML  |    |25/04/2025|
+|Landing Page - home   |   c62b615…7769d76     |  feat: add section home structure and styling    |           |   24/04/2025 |
+|Landing Page - BeAPartner   |   c62b615…3f0f246     |  update landing page beapartner   |           |   24/04/2025 |
+| Landing Page - Reviews |  c62b615…6a35cc4         |  feature(reviews): completed Reviews on an 80%  |    |           |
+
+            
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 En el transcurso del primer sprint, no se realizaron pruebas en la aplicación ya que nuestro enfoque estuvo dirigido exclusivamente a la construcción de la página de inicio.
@@ -125,6 +135,26 @@ En el transcurso del primer sprint, no se realizaron pruebas en la aplicación y
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
 A continuación se presentan capturas del landing page implementado parcialmente en código, con el uso de HTML, CSS y JavaScript
+
+- Home:<br>
+
+   ![Alt Text](images/MockUp-Home.png)
+<br?
+- OurSystem:<br>
+
+   ![Alt Text](images/MockUo-OurSystem.png)
+
+  >br?
+- BeAPartner: <br>
+
+  ![Alt Text](images/MockUp-BePartner.png)
+  
+  <br>
+- Reviews: <br>
+
+  ![Alt Text](images/MockUp-Reviews.png)
+
+  <br>
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -146,13 +176,22 @@ A continuación, se muestran las capturas de los insights del repositorio de la 
 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2
+
+
 #### 5.2.2.2. Aspect Leaders and Collaborators
+
 #### 5.2.2.3. Sprint Backlog 2
+
 #### 5.2.2.4. Development Evidence for Sprint Review
+
 #### 5.2.2.5. Execution Evidence for Sprint Review
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint
+
 A continuación, se muestran las capturas de los insights del repositorio Fronted para evidenciar la participación de todos los miembros del grupo:
 
 
