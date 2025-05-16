@@ -192,6 +192,14 @@ A continuación, se muestran las capturas de los insights del repositorio de la 
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
+|Team Member | GitHub Username |  Delegating Responsibilities <br> Leader (L) / Collaborator (C) | Merging Branches <br>Leader (L) /Collaborator (C)| Correcting Mistakes <br> Leader (L) /Collaborator (C)|
+|-------------|--------------|------------|----------|----------|
+| Rodrigo Alaya Cabrera | ALAYA1803  |    L   |    L     | C  |
+| Niurka Lucero Huarcaya Quispe	 | NLH18 |    C   |     C    | C  |
+| José Luis Martinez Valdivia | hmongus |  C     |   C      |  C  |
+| Maria Fernanda Mostajo Orosco	 | Mafer-m30  |    C   |    C     |   C   |
+| Karen Stephanie Ramos Carpio	 | KarenRamos2  |   C    |    C     |   L   |
+
 #### 5.2.2.3. Sprint Backlog 2
 
 #### 5.2.2.4. Development Evidence for Sprint Review
