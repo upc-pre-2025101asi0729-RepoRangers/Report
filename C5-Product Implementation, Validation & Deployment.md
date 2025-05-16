@@ -453,12 +453,15 @@ A continuación, se muestran las capturas del despliegue del Frontend de la apli
 
 - Netlify:  <br>
 <br>
+
 ![Netlify](images/Netlify.png)
+
 <br>
 
 - Video Implementacion: <br> <br>
 
 ![video](images/video.png)
+
 <br>
 
 
