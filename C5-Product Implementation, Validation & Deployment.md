@@ -434,7 +434,7 @@ Durante este sprint se completaron importantes avances en la ejecución del Fron
 
 Estas funcionalidades consolidan la base operativa de la plataforma, permitiendo una experiencia inicial completa para ambas partes del sistema: usuarios que buscan servicios de reparación y técnicos que los ofrecen.
 
-Link del proyecto: https://github.com/1ASI0729-2510-4313-G5-Bikeshare/Frontend.git
+Link del proyecto: https://lucky-treacle-8d6a1c.netlify.app/
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -453,7 +453,7 @@ A continuación, se muestran las capturas del despliegue del Frontend de la apli
 
 - Netlify:  <br>
 <br>
-![Netlify](images/MockAPI.png)
+![Netlify](images/Netlify.png)
 <br>
 
 - Video Implementacion: <br> <br>
