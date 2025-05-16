@@ -43,9 +43,9 @@ Como empresa emergente, en RepoRangers estamos comprometidos con la sostenibilid
 		<td style="text-align: center" align="center">Tengo conocimientos de HTML, CSS y lenguajes de programación como C++ y Python. Espero que los conocimientos que he ido adquiriendo en ciclos anteriores sean de gran ayuda para llevar a cabo el presente trabajo.</td>
 	</TR>
 	<TR>
-		<td style="text-align: center" align="center"><p align="center"> José Luis Martinez Valdivia - U20  <img src="images/foto_Jose.jpg" alt="Foto Edson" width="40%"> </p></td> 
-		<td style="text-align: center" align="center"></td>
-		<td style="text-align: center" align="center"> </td>
+		<td style="text-align: center" align="center"><p align="center"> José Luis Martinez Valdivia - U202213989 <br>  <img src="images/foto_Jose.jpg" alt="Foto Edson" width="40%"> </p></td> 
+		<td style="text-align: center" align="center">Me considero una persona apasionada por aprender nuevas cosas y mejorar mi nivel de programacion de forma diaria.</td>
+		<td style="text-align: center" align="center"> Soy estudiante de la carrera de Ingenieria. Cuento con conocimiento en los lenguajes de Pyhton, JavaScript y C#. Me encuentro mejorando mis conocimientos en Angular, virtualizacion y VueJS</td>
 	</TR>
   	<TR>
 		<td style="text-align: center" align="center"><p align="center"> Maria Fernanda Mostajo  - U202312874  <img src="images/fotoMaria.jpeg" alt="Foto José" width="45%"> </p></td> 
