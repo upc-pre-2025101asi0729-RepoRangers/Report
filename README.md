@@ -134,7 +134,7 @@ Abril 2025
 	      	  <p>- Rodrigo Alaya:  <br>
           </p>
 	      <p> - Jose Martinez: Para el desarrollo de esta entrega, desarrolle mis habilidades de trabajo en equipo y comucinacion con mis compañeros de proyecto. Asimismo reforce mis habilidades obtenidas hasta ahora gracias al desarrollo del curso.</p>
-	      <p>- Niurka Huarcaya:  <br>
+	      <p>- Niurka Huarcaya:  Para esta entrega, me comuniqué efectivamente con diferentes públicos mientras trabajaba en la sección de perfil del frontend de la app web y contribuía a la documentación del sprint. Expliqué decisiones técnicas de manera clara, facilitando la comprensión para desarrolladores y otros roles, y estructuré información relevante para el equipo, asegurando que el proceso fuera accesible para todos.<br>
           </p>
         <p>- Maria Fernanda Mostajo: Para esta entrega, cumplí con comunicarme oralmente de forma efectiva al colaborar en la organización del capitulo V de nuestro proyecto, específicamete en la elaboración del team collaboration insights during sprint. Asimismo participé en realizar la primera versión de Frontend Web Applications.<br>
           </p>
@@ -168,7 +168,7 @@ Abril 2025
 	      	  <p>- Rodrigo Alaya:  <br>
           </p>
 	      <p> - Jose Martinez: Para esta entrega me encargue de desarrollar los aspectos principales del Sprint 2 y el Deployment Evidence. Me enfoce en revisar que el mergue de las diferentes ramas se hay hecho de forma correcta para el posterior deployment </p>
-	      <p>- Niurka Huarcaya:  <br>
+	      <p>- Niurka Huarcaya: Para el deasrrollo de este sprint me encargué de estructurar información clara sobre la sección de perfil del frontend. Adapté la redacción para que fuera comprensible por todos, asegurando que los detalles técnicos y decisiones clave fueran accesibles para diferentes audiencias. <br>
           </p>
         <p>- Maria Fernanda Mostajo: Para esta entrega, me encargué de redactar el capitulo V, en la sección de team collaboration insights during sprint. Asimismo, desarrolle el contenido del Frontend Web Applications, en la sección de login, sign up y home.<br>
           </p>
