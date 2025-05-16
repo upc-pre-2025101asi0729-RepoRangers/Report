@@ -458,9 +458,8 @@ A continuación, se muestran las capturas del despliegue del Frontend de la apli
 
 <br>
 
-- Video Implementacion: <br> <br>
+- Video Implementacion: (https://shorturl.at/Qrk5p) <br> <br>
 
-![video](images/video.png)
 
 <br>
 
